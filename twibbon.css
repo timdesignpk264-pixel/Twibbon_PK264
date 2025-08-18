@@ -1,122 +1,62 @@
-/* ===================================
-   TWIBBON GENERATOR - STYLE
-   =================================== */
+/* —— Design Tokens ——————————— */
+:root{
+  /* Palette (Bootstrap-like + Metronic-ish) */
+  --blue:#007bff; --indigo:#6610f2; --purple:#6f42c1; --pink:#e83e8c;
+  --red:#dc3545; --orange:#fd7e14; --yellow:#ffc107; --green:#28a745;
+  --teal:#20c997; --cyan:#17a2b8; --white:#ffffff; --gray:#7E8299;
+  --gray-200:#e9ecef; --gray-dark:#3F4254;
+  --primary:#1961AE; --secondary:#E4E6EF; --success:#1BC5BD;
+  --info:#1961AE; --warning:#FFA800; --danger:#F64E60;
+  --light:#F3F6F9; --dark:#181C32;
 
-/* 🎨 Palet Warna */
-:root {
-  --goldenrod:#daa520;
-  --deep-teal:#2e6368;
-  --lava-black:#352f36;
-  --soft-beige:#f5e7c5;
-  --olive-gold:#7e7130;
-  --burnt-orange:#db691a;
-  --sage-green:#a7b49b;
-  --deep-mulberry:#61313e;
-  --warm-sunlight:#f7c64b;
-  --deep-olive:#252c1f;
-  --soft-teal:#579681;
-  --soft-clay:#dc7d60;
-  --vintage-crimson:#9f424a;
-  --deep-goldenrod:#b8860b;
-  --dusty-rosewood:#916968;
-  --midnight-blue:#1b2544;
-  --deep-teracotta:#923a2a;
-  --dusty-pink:#d49a95;
-  --dark-crimson:#78181c;
+  /* Semantic UI */
+  --bg-body:var(--light);
+  --text-body:var(--gray-dark);
+  --panel-bg:#fff;
+  --panel-border:var(--gray-200);
+  --shadow-soft:0 8px 24px rgba(0,0,0,.06);
+  --radius:14px;
+
+  --label-color:var(--gray-dark);
+  --field-border:var(--secondary);
+  --range-track:var(--secondary);
+  --range-fill:var(--primary);
+
+  --header-bg:#fff;
+  --header-text:var(--gray-dark);
+
+  --btn-bg:var(--warning);
+  --btn-bg-hover:#e09600;
+
+  /* Stage/preview */
+  --stage-bg:#000;
+
+  /* Warna teks pada KANVAS */
+  --name-color:var(--danger);
+  --univ-color:var(--primary);
+  --prodi-color:var(--gray-dark);
 }
 
-/* Body & Typography */
-body {
-  font-family: 'Inter', sans-serif;
-  background: var(--soft-beige);
-  margin:0;
-  color: var(--lava-black);
+/* —— Reset ringan ——————————— */
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;background:var(--bg-body);color:var(--text-body);
+  font-family:'Inter',system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
+  -webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;
 }
 
-h1,h2,h3,h4 {
-  font-family: 'Raleway', sans-serif;
-  font-weight:700;
-  color: var(--deep-olive);
+/* —— Header/Appbar ——————————— */
+.twibbon-header{
+  display:flex;align-items:start;gap:.75rem;
+  padding:1rem 1.25rem;background:var(--header-bg);color:var(--header-text);
+  border-bottom:1px solid var(--gray-200);box-shadow:var(--shadow-soft);
 }
+.twibbon-header h1{margin:0;font-size:1.4rem;font-weight:800}
+.twibbon-header p{margin:.25rem 0 0;font-size:.95rem;opacity:.9}
 
-/* Header */
-.twibbon-header {
-  background: var(--deep-teal);
-  color: white;
-  padding: 1rem 2rem;
-  text-align: center;
-}
-
-.twibbon-header h1 {
-  margin: 0;
-  font-size: 1.8rem;
-}
-
-.twibbon-header p {
-  margin: .2rem 0 0;
-  font-size: 1rem;
-}
-
-/* Container grid */
-.twibbon-container-3 {
-  display: grid;
-  grid-template-columns: 1fr 1.2fr 1fr;
-  gap: 1rem;
-  padding: 1rem;
-}
-
-/* Panel */
-.panel {
-  background: white;
-  border-radius: .75rem;
-  padding: 1rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,.1);
-}
-
-/* Controls */
-.control {
-  width: 100%;
-  padding: .4rem .6rem;
-  border: 1px solid var(--gray-dark,#ccc);
-  border-radius: .4rem;
-}
-
-.select {
-  background: white;
-}
-
-/* Preview stage */
-#stage {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 1080/1350;
-  background: var(--soft-beige);
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  overflow:hidden;
-  border-radius: .5rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,.15);
-}
-
-canvas {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Boxes untuk teks */
-.box {
-  position: absolute;
-  border: 1px dashed rgba(0,0,0,.3);
-  cursor: move;
-}
-
-.box .handle {
-  width:10px;
-  height:10px;
-  background: var(--deep-teal);
-  border-radius:50%;
-  position:absolute;
-  bottom:-6px;
-  right:-6px;
-}
+/* —— Layout: 3 kolom ——————————— */
+.twibbon-container-3{
+  display:grid;
+  grid-template-columns: 1fr 1.2fr 1fr;   /* kiri : tengah : kanan */
+  g
