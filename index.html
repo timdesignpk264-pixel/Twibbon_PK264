@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700&family=Raleway:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
   <!-- Styles -->
-  <link rel="stylesheet" href="assets/css/twibbon.css">
+  <link rel="stylesheet" href="./twibbon.css">
 </head>
 <body>
 
@@ -25,7 +25,6 @@
 
   <!-- ====== GRID 3 KOLOM ====== -->
   <main class="twibbon-container-3">
-    
     <!-- KOLOM 1 — Data Peserta -->
     <section class="panel" aria-label="Data Peserta">
       <div class="small">Sumber data: <span id="dataStatus">memuat…</span></div>
@@ -52,7 +51,7 @@
           <select id="suggestionSelect" class="control select"></select>
           <div id="nameHint" class="meta"></div>
         </div>
-  
+
         <div>
           <label for="university">Universitas</label>
           <input id="university" class="control" readonly>
@@ -65,7 +64,7 @@
           <div id="prodiHint" class="meta"></div>
         </div>
 
-        <!-- Uploader yang DIPERTAHANKAN (panel kiri, di bawah tombol Edit Univ/Prodi) -->
+        <!-- Uploader yang DIPERTAHANKAN (panel kiri) -->
         <div class="align-end">
           <section class="uploader compact" aria-label="Unggah Foto">
             <div class="dropzone" id="dropzone">
@@ -81,7 +80,6 @@
             <div class="toast" id="toast" role="status" aria-live="polite"></div>
           </section>
         </div>
-
       </div>
     </section>
 
@@ -89,8 +87,7 @@
     <section class="twibbon-preview" aria-label="Preview">
       <div id="stage">
         <canvas id="c" width="1080" height="1350"></canvas>
-
-        <!-- Guide boxes (harus di dalam #stage) -->
+        <!-- Guide boxes -->
         <div id="boxName"  class="box"><div class="handle"></div></div>
         <div id="boxUniv"  class="box"><div class="handle"></div></div>
         <div id="boxProdi" class="box"><div class="handle"></div></div>
@@ -100,71 +97,56 @@
     <!-- KOLOM 3 — Kontrol Foto & Unduh -->
     <section class="panel" aria-label="Kontrol Foto">
       <div class="form-grid">
-
-        <!-- (Uploader di panel kanan DIHAPUS) -->
-
-        <!-- Edit transform foto -->
         <fieldset>
           <legend>Edit Foto</legend>
-
           <div class="range-row">
             <label for="zoomRange">Zoom (%)</label>
             <span class="badge" id="zoomBadge">100%</span>
             <input id="zoomRange" class="control" type="range" min="50" max="200" value="100">
           </div>
-
           <div class="range-row">
             <label for="offsetXRange">Geser Horizontal (Kiri ↔ Kanan)</label>
             <input id="offsetXRange" class="control" type="range" min="-400" max="400" value="0">
           </div>
-
           <div class="range-row">
             <label for="offsetYRange">Geser Vertikal (Atas ↕ Bawah)</label>
             <input id="offsetYRange" class="control" type="range" min="-400" max="400" value="0">
           </div>
-
           <button id="resetPhotoBtn" type="button">Reset Foto</button>
           <div class="hint">Tips: drag foto langsung di preview, scroll untuk zoom.</div>
         </fieldset>
 
-        <!-- Koreksi foto (filter canvas) -->
         <fieldset>
           <legend>Koreksi Foto</legend>
-
           <div class="range-row">
             <label for="brightnessRange">Brightness (%)</label>
             <span class="badge" id="brightnessBadge">100%</span>
             <input id="brightnessRange" class="control" type="range" min="50" max="150" value="100">
           </div>
-
           <div class="range-row">
             <label for="contrastRange">Contrast (%)</label>
             <span class="badge" id="contrastBadge">100%</span>
             <input id="contrastRange" class="control" type="range" min="50" max="150" value="100">
           </div>
-
           <div class="range-row">
             <label for="saturationRange">Saturation (%)</label>
             <span class="badge" id="saturationBadge">100%</span>
             <input id="saturationRange" class="control" type="range" min="50" max="150" value="100">
           </div>
-
           <label style="display:flex;align-items:center;gap:.6rem;margin-top:.5rem;">
             <input id="detailBoost" type="checkbox">
             <span class="switch-label">Detail Boost (ringan)</span>
           </label>
-
           <div class="hint">Nilai 100% = normal. Pakai seperlunya agar wajah tetap natural.</div>
         </fieldset>
 
         <button id="downloadBtn" type="button">Unduh PNG</button>
       </div>
     </section>
-
   </main>
 
   <!-- Scripts: data dulu, baru app -->
-  <script src="data/data_peserta_pk264.js"></script>
-  <script src="assets/twibbon.js"></script>
+  <script src="./data_peserta_pk264.js"></script>
+  <script src="./twibbon.js"></script>
 </body>
 </html>
