@@ -28,10 +28,15 @@ const detailBoostChk  = $("#detailBoost");
 
 // ===== Konstanta =====
 const MAX_NAME_CHARS = 35;
-const CSV_URL = "data/Data formulir PK 264.csv";          // CSV di folder /data
-const FRAME_SVG = "assets/img/frame.svg";                 // frame default (SVG)
-const FRAME_PNG = "assets/img/frame.png";                 // fallback PNG
-const TEXT_SVG_TEMPLATE = "assets/img/text-template.svg"; // SVG overlay (id: nameText, univText, prodiText)
+
+// ✅ Sesuaikan dengan file di root repo (GitHub Pages friendly)
+const CSV_URL = "./Data%20formulir%20PK%20264.csv";   // jika memakai CSV langsung (spasi di-encode)
+// Jika Anda nanti merename file CSV → gunakan baris ini sebagai gantinya:
+// const CSV_URL = "./data_pk264.csv";
+
+const FRAME_SVG = "./frame.svg";              // frame default (SVG di root)
+const FRAME_PNG = "./frame.png";              // fallback PNG
+const TEXT_SVG_TEMPLATE = "./text-template.svg"; // SVG overlay (id: nameText, univText, prodiText)
 
 // Lebar wrap (px) sesuai layout overlay 1080x1350
 const UNIV_MAX_W  = 792;
