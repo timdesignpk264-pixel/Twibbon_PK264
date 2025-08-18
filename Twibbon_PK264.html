@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Twibbon Generator PK264</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700&family=Raleway:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/twibbon.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="twibbon-header">
+    <div>
+      <h1>Twibbon Generator PK264</h1>
+      <p>Siapkan foto + pilih peserta → unduh PNG siap pakai.</p>
+    </div>
+  </header>
+
+  <!-- ====== GRID 3 KOLOM ====== -->
+  <main class="twibbon-container-3">
+    
+    <!-- KOLOM 1 — Data Peserta -->
+    <section class="panel" aria-label="Data Peserta">
+      <div class="small">Sumber data: <span id="dataStatus">memuat…</span></div>
+
+      <div class="form-grid">
+        <div>
+          <label for="groupFilter">Filter Kelompok</label>
+          <select id="groupFilter" class="control select"></select>
+        </div>
+
+        <div>
+          <label for="searchInput">Cari Nama</label>
+          <input id="searchInput" class="control" list="nameList" placeholder="Ketik nama…">
+          <datalist id="nameList"></datalist>
+        </div>
+
+        <div>
+          <label for="nameSelect">Pilih Nama</label>
+          <select id="nameSelect" class="control select"></select>
+        </div>
+
+        <div id="suggestionWrapper" class="hidden">
+          <label for="suggestionSelect">Saran Nama (Otomatis Disingkat)</label>
+          <select id="suggestionSelect" class="control select"></select>
+          <div id="nameHint" class="meta"></div>
+        </div>
+  
+        <div>
+          <label for="university">Universitas</label>
+          <input id="university" class="control" readonly>
+          <div id="univHint" class="meta"></div>
+        </div>
+
+        <div>
+          <label for="program">Program Studi</label>
+          <input id="program" class="control" readonly>
+          <div id="prodiHint" class="meta"></div>
+        </div>
+
+        <!-- Uploader yang DIPERTAHANKAN (panel kiri, di bawah tombol Edit Univ/Prodi) -->
+        <div class="align-end">
+          <section class="uploader compact" aria-label="Unggah Foto">
+            <div class="dropzone" id="dropzone">
+              <input id="photoInput" type="file" class="drop-input" accept="image/png,image/jpeg" />
+              <div class="dz-icon" aria-hidden="true">⬆</div>
+              <div class="dz-title">Upload foto or <span class="dz-browse">browse</span></div>
+              <div class="dz-sub">Hanya PNG/JPEG.</div>
+            </div>
+
+            <div class="uploads-title">Uploads</div>
+            <ul class="uploads-list" id="uploadsList"></ul>
+
+            <div class="toast" id="toast" role="status" aria-live="polite"></div>
+          </section>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- KOLOM 2 — Preview -->
+    <section class="twibbon-preview" aria-label="Preview">
+      <div id="stage">
+        <canvas id="c" width="1080" height="1350"></canvas>
+
+        <!-- Guide boxes (harus di dalam #stage) -->
+        <div id="boxName"  class="box"><div class="handle"></div></div>
+        <div id="boxUniv"  class="box"><div class="handle"></div></div>
+        <div id="boxProdi" class="box"><div class="handle"></div></div>
+      </div>
+    </section>
+
+    <!-- KOLOM 3 — Kontrol Foto & Unduh -->
+    <section class="panel" aria-label="Kontrol Foto">
+      <div class="form-grid">
+
+        <!-- (Uploader di panel kanan DIHAPUS) -->
+
+        <!-- Edit transform foto -->
+        <fieldset>
+          <legend>Edit Foto</legend>
+
+          <div class="range-row">
+            <label for="zoomRange">Zoom (%)</label>
+            <span class="badge" id="zoomBadge">100%</span>
+            <input id="zoomRange" class="control" type="range" min="50" max="200" value="100">
+          </div>
+
+          <div class="range-row">
+            <label for="offsetXRange">Geser Horizontal (Kiri ↔ Kanan)</label>
+            <input id="offsetXRange" class="control" type="range" min="-400" max="400" value="0">
+          </div>
+
+          <div class="range-row">
+            <label for="offsetYRange">Geser Vertikal (Atas ↕ Bawah)</label>
+            <input id="offsetYRange" class="control" type="range" min="-400" max="400" value="0">
+          </div>
+
+          <button id="resetPhotoBtn" type="button">Reset Foto</button>
+          <div class="hint">Tips: drag foto langsung di preview, scroll untuk zoom.</div>
+        </fieldset>
+
+        <!-- Koreksi foto (filter canvas) -->
+        <fieldset>
+          <legend>Koreksi Foto</legend>
+
+          <div class="range-row">
+            <label for="brightnessRange">Brightness (%)</label>
+            <span class="badge" id="brightnessBadge">100%</span>
+            <input id="brightnessRange" class="control" type="range" min="50" max="150" value="100">
+          </div>
+
+          <div class="range-row">
+            <label for="contrastRange">Contrast (%)</label>
+            <span class="badge" id="contrastBadge">100%</span>
+            <input id="contrastRange" class="control" type="range" min="50" max="150" value="100">
+          </div>
+
+          <div class="range-row">
+            <label for="saturationRange">Saturation (%)</label>
+            <span class="badge" id="saturationBadge">100%</span>
+            <input id="saturationRange" class="control" type="range" min="50" max="150" value="100">
+          </div>
+
+          <label style="display:flex;align-items:center;gap:.6rem;margin-top:.5rem;">
+            <input id="detailBoost" type="checkbox">
+            <span class="switch-label">Detail Boost (ringan)</span>
+          </label>
+
+          <div class="hint">Nilai 100% = normal. Pakai seperlunya agar wajah tetap natural.</div>
+        </fieldset>
+
+        <button id="downloadBtn" type="button">Unduh PNG</button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Scripts: data dulu, baru app -->
+  <script src="data/data_peserta_pk264.js"></script>
+  <script src="assets/twibbon.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PK264 Twibbon - Text Overlay Template (centered)
+     Letakkan di: assets/img/text-template.svg
+     Kanvas: 1080 x 1350 (sesuai canvas HTML) -->
+<svg id="text-template" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+
+  <defs>
+    <style>
+      /* Pastikan font Raleway 400/500/700 sudah di-load di HTML/CSS */
+      .name {
+        fill: #2e6368;
+        font-family: Raleway, "Raleway-Bold", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+        font-weight: 700;
+        font-size: 48px;
+      }
+      .univ {
+        fill: #352f36;
+        font-family: Raleway, "Raleway-Bold", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+        font-weight: 700;
+        font-size: 38px;
+      }
+      .prodi {
+        fill: #352f36;
+        font-family: Raleway, "Raleway-Regular", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+        font-weight: 400;
+        font-size: 30px;
+      }
+    </style>
+  </defs>
+
+  <!-- Titik tengah kanvas = x:540. Semua teks di-center agar fleksibel panjangnya -->
+  <!-- Placeholder NAMA -->
+  <text id="nameText" class="name" x="540" y="1048.69" text-anchor="middle">
+    Nama Lengkap
+  </text>
+
+  <!-- Placeholder UNIVERSITAS / AFILIASI -->
+  <text id="univText" class="univ" x="540" y="1140.71" text-anchor="middle">
+    Universitas / Afiliasi
+  </text>
+
+  <!-- Placeholder PROGRAM / JURUSAN -->
+  <text id="prodiText" class="prodi" x="540" y="1190.49" text-anchor="middle">
+    Program / Jurusan
+  </text>
+
+</svg>
