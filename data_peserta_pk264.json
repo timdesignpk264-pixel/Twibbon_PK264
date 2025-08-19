@@ -1,4 +1,4 @@
-window.DATA = [
+[
   {
     "Kelompok": "PK264-1-Yudishtira",
     "Full Name": "Aditiya Pratama Masyhuri",
@@ -17981,4 +17981,4 @@ window.DATA = [
     "Mulai Studi": "",
     "Selesai Studi": ""
   }
-];
+]
