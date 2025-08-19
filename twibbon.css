@@ -299,19 +299,37 @@ input[type="range"]:focus-visible{ outline:none; filter:drop-shadow(0 0 0 .9rem 
   object-fit:cover; border:1px solid var(--panel-border,#e6e9ef); background:#fff;
 }
 
-/* Dark mode */
-@media (prefers-color-scheme:dark){
-  :root{
-    --bg-body:#0e1116; --text-body:#e9eef6;
-    --panel-bg:#121723; --panel-border:rgba(255,255,255,.08);
-    --header-bg:#0f1420; --header-text:#e9eef6; --stage-bg:#000;
-  }
-  .small,.hint,legend{ color:#a9b4c0 }
-  .range-row .badge{ background:#121723; border-color:rgba(255,255,255,.08); color:#e9eef6 }
-  input[type="range"]::-webkit-slider-thumb,
-  input[type="range"]::-moz-range-thumb{ background:#0f1420; border-color:rgba(255,255,255,.15) }
-  #detailBoost,#showGuides{ background:#1a2236; border-color:rgba(255,255,255,.14) }
-  .dropzone{ background:#101626 }
-  .dz-sub{ color:#a9b4c0 }
-  .toast{ background:#0f1420; color:#e9eef6 }
+/* Paksa kontrol default terang */
+:root { color-scheme: light; }
+
+/* Aktifkan dark mode hanya bila html punya class .dark */
+html.dark{
+  --bg-body:#0e1116; --text-body:#e9eef6;
+  --panel-bg:#121723; --panel-border:rgba(255,255,255,.08);
+  --header-bg:#0f1420; --header-text:#e9eef6; --stage-bg:#000;
+  color-scheme: dark; /* supaya input/slider ikut gelap saat .dark */
 }
+
+html.dark .small,
+html.dark .hint,
+html.dark legend{ color:#a9b4c0 }
+
+html.dark .range-row .badge{
+  background:#121723; border-color:rgba(255,255,255,.08); color:#e9eef6;
+}
+
+html.dark input[type="range"]::-webkit-slider-thumb,
+html.dark input[type="range"]::-moz-range-thumb{
+  background:#0f1420; border-color:rgba(255,255,255,.15);
+}
+
+html.dark #detailBoost,
+html.dark #showGuides{
+  background:#1a2236; border-color:rgba(255,255,255,.14);
+}
+
+html.dark .dropzone{ background:#101626 }
+html.dark .dz-sub{ color:#a9b4c0 }
+html.dark .toast{ background:#0f1420; color:#e9eef6 }
+
+
