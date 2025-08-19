@@ -14,7 +14,6 @@
   <link rel="stylesheet" href="./twibbon.css">
 </head>
 <body>
-
   <!-- Header -->
   <header class="twibbon-header">
     <div>
@@ -29,68 +28,129 @@
     <section class="panel" aria-label="Data Peserta">
       <div class="small">Sumber data: <span id="dataStatus">memuat…</span></div>
 
-      <div class="form-grid">
-        <div>
-          <label for="groupFilter">Filter Kelompok</label>
-          <select id="groupFilter" class="control select"></select>
-        </div>
-
-        <div>
-          <label for="searchInput">Cari Nama</label>
-          <input id="searchInput" class="control" list="nameList" placeholder="Ketik nama…">
+      <!-- Toolbar: Search + Filter -->
+      <div class="toolbar">
+        <div class="searchwrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+            <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                  d="m21 21-4.35-4.35M11 19a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"/>
+          </svg>
+          <input id="searchInput" list="nameList" placeholder="Cari nama peserta…" autocomplete="off" />
           <datalist id="nameList"></datalist>
         </div>
 
-        <div>
-          <label for="nameSelect">Pilih Nama</label>
-          <select id="nameSelect" class="control select"></select>
+        <button id="openFilter" class="btn-primary" type="button">
+          <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-width="2" stroke-linecap="round" d="M3 6h18M6 12h12M10 18h4"/>
+          </svg>
+          Filter
+        </button>
+      </div>
+
+      <!-- Kartu Personal Info -->
+      <div class="settings-card" id="infoCard">
+        <!-- PILIH NAMA -->
+        <div class="settings-row">
+          <div class="label">Pilih Nama</div>
+          <div class="value">
+            <select id="nameSelect" class="control select" style="width:100%"></select>
+          </div>
+          <div class="hint"></div>
         </div>
 
-        <div id="suggestionWrapper" class="hidden">
-          <label for="suggestionSelect">Saran Nama (Otomatis Disingkat)</label>
-          <select id="suggestionSelect" class="control select"></select>
-          <div id="nameHint" class="meta"></div>
+        <!-- NAMA -->
+        <div class="settings-row" id="rowName">
+          <div class="label">Name</div>
+          <div class="value">
+            <span id="rowNameVal" class="badge-soft">—</span>
+            <button id="btnEditName" class="edit-btn" title="Edit nama (pilih saran)" hidden>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M16.862 3.487a1.5 1.5 0 0 1 2.121 2.121L8.25 16.342 4.5 17.25l.908-3.75L16.862 3.487z"/>
+              </svg>
+            </button>
+          </div>
+          <div id="nameHint" class="hint"></div>
+          <div class="row-edit" id="rowNameEdit" hidden>
+            <select id="rowNameSelect" class="control select" style="width:100%"></select>
+          </div>
         </div>
 
-        <div>
-          <label for="university">Universitas</label>
-          <input id="university" class="control" readonly>
-          <div id="univHint" class="meta"></div>
+        <!-- PROGRAM STUDI -->
+        <div class="settings-row" id="rowProdi">
+          <div class="label">Program Studi</div>
+          <div class="value">
+            <input id="rowProdiInput" class="control inline-input" readonly>
+            <button id="btnEditProdi" class="edit-btn" title="Edit Program Studi">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M16.862 3.487a1.5 1.5 0 0 1 2.121 2.121L8.25 16.342 4.5 17.25l.908-3.75L16.862 3.487z"/>
+              </svg>
+            </button>
+          </div>
+          <div id="prodiHint" class="hint"></div>
         </div>
 
-        <div>
-          <label for="program">Program Studi</label>
-          <input id="program" class="control" readonly>
-          <div id="prodiHint" class="meta"></div>
+        <!-- UNIVERSITAS -->
+        <div class="settings-row" id="rowUniv">
+          <div class="label">Universitas</div>
+          <div class="value">
+            <input id="rowUnivInput" class="control inline-input" readonly>
+            <button id="btnEditUniv" class="edit-btn" title="Edit Universitas">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M16.862 3.487a1.5 1.5 0 0 1 2.121 2.121L8.25 16.342 4.5 17.25l.908-3.75L16.862 3.487z"/>
+              </svg>
+            </button>
+          </div>
+          <div id="univHint" class="hint"></div>
         </div>
 
-        <!-- Uploader yang DIPERTAHANKAN (panel kiri) -->
-        <div class="align-end">
-          <section class="uploader compact" aria-label="Unggah Foto">
-            <div class="dropzone" id="dropzone">
-              <input id="photoInput" type="file" class="drop-input" accept="image/png,image/jpeg" />
-              <div class="dz-icon" aria-hidden="true">⬆</div>
-              <div class="dz-title">Upload foto or <span class="dz-browse">browse</span></div>
-              <div class="dz-sub">Hanya PNG/JPEG.</div>
-            </div>
+        <!-- JENJANG (statis) -->
+        <div class="settings-row">
+          <div class="label">Jenjang</div>
+          <div class="value">
+            <span id="degreeVal" class="badge-soft">—</span>
+          </div>
+          <div class="hint"></div>
+        </div>
 
-            <div class="uploads-title">Uploads</div>
-            <ul class="uploads-list" id="uploadsList"></ul>
-
-            <div class="toast" id="toast" role="status" aria-live="polite"></div>
-          </section>
+        <!-- NEGARA (bendera) -->
+        <div class="settings-row">
+          <div class="label">Negara</div>
+          <div class="value" style="gap:8px">
+            <img id="countryFlag" class="flag-round" alt="Bendera" width="32" height="32">
+          </div>
+          <div class="hint"></div>
         </div>
       </div>
+
+      <!-- Uploader -->
+      <section class="uploader compact" aria-label="Unggah Foto" style="margin-top:14px">
+        <div class="dropzone" id="dropzone">
+          <!-- input menutupi seluruh box: klik di mana saja = buka file -->
+          <input id="photoInput" type="file" class="drop-input" accept="image/png,image/jpeg" />
+          <img src="./upload.svg" alt="" class="dz-svg" aria-hidden="true">
+          <div class="dz-title">Upload foto atau <span class="dz-browse">browse</span></div>
+          <div class="dz-sub">Hanya PNG/JPEG.</div>
+        </div>
+
+        <div class="uploads-title">Uploads</div>
+        <ul class="uploads-list" id="uploadsList"></ul>
+
+        <div class="toast" id="toast" role="status" aria-live="polite"></div>
+      </section>
     </section>
 
     <!-- KOLOM 2 — Preview -->
     <section class="twibbon-preview" aria-label="Preview">
       <div id="stage">
         <canvas id="c" width="1080" height="1350"></canvas>
-        <!-- Guide boxes -->
-        <div id="boxName"  class="box"><div class="handle"></div></div>
-        <div id="boxUniv"  class="box"><div class="handle"></div></div>
-        <div id="boxProdi" class="box"><div class="handle"></div></div>
+
+        <!-- Guide boxes (default hidden) -->
+        <div id="boxName" class="box hidden"><div class="handle"></div></div>
+        <div id="boxUniv" class="box hidden"><div class="handle"></div></div>
+        <div id="boxProdi" class="box hidden"><div class="handle"></div></div>
       </div>
     </section>
 
@@ -99,44 +159,60 @@
       <div class="form-grid">
         <fieldset>
           <legend>Edit Foto</legend>
+
+          <label style="display:flex;align-items:center;gap:.6rem;margin-top:.25rem;">
+            <input id="showGuides" type="checkbox" checked>
+            <span class="switch-label">Tampilkan Garis Panduan</span>
+          </label>
+
           <div class="range-row">
             <label for="zoomRange">Zoom (%)</label>
             <span class="badge" id="zoomBadge">100%</span>
             <input id="zoomRange" class="control" type="range" min="50" max="200" value="100">
           </div>
+
           <div class="range-row">
             <label for="offsetXRange">Geser Horizontal (Kiri ↔ Kanan)</label>
             <input id="offsetXRange" class="control" type="range" min="-400" max="400" value="0">
           </div>
+
           <div class="range-row">
             <label for="offsetYRange">Geser Vertikal (Atas ↕ Bawah)</label>
             <input id="offsetYRange" class="control" type="range" min="-400" max="400" value="0">
           </div>
-          <button id="resetPhotoBtn" type="button">Reset Foto</button>
-          <div class="hint">Tips: drag foto langsung di preview, scroll untuk zoom.</div>
+
+          <div class="reset-wrap">
+            <button id="resetBtn" type="button">Reset Foto</button>
+            <p class="tip">Tips: drag foto langsung di preview, scroll untuk zoom.</p>
+          </div>
         </fieldset>
 
         <fieldset>
           <legend>Koreksi Foto</legend>
+
           <div class="range-row">
             <label for="brightnessRange">Brightness (%)</label>
             <span class="badge" id="brightnessBadge">100%</span>
             <input id="brightnessRange" class="control" type="range" min="50" max="150" value="100">
           </div>
+
           <div class="range-row">
             <label for="contrastRange">Contrast (%)</label>
             <span class="badge" id="contrastBadge">100%</span>
             <input id="contrastRange" class="control" type="range" min="50" max="150" value="100">
           </div>
+
           <div class="range-row">
             <label for="saturationRange">Saturation (%)</label>
             <span class="badge" id="saturationBadge">100%</span>
             <input id="saturationRange" class="control" type="range" min="50" max="150" value="100">
           </div>
+
           <label style="display:flex;align-items:center;gap:.6rem;margin-top:.5rem;">
             <input id="detailBoost" type="checkbox">
             <span class="switch-label">Detail Boost (ringan)</span>
           </label>
+
           <div class="hint">Nilai 100% = normal. Pakai seperlunya agar wajah tetap natural.</div>
         </fieldset>
 
@@ -145,9 +221,80 @@
     </section>
   </main>
 
+  <!-- ===== Drawer Filter (LEFT) — Kelompok & Negara ===== -->
+  <div id="backdrop" class="backdrop" aria-hidden="true"></div>
+  <aside id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-header">
+      <strong>Filter</strong>
+      <button id="closeFilter" class="btn-reset" type="button" aria-label="Tutup">✕</button>
+    </div>
+
+    <div class="drawer-body">
+      <div class="filter-section">
+        <h4>Kelompok</h4>
+        <div class="chips" id="chipsKelompok"></div>
+      </div>
+
+      <div class="filter-section">
+        <h4>Negara Tujuan</h4>
+        <div class="chips" id="chipsNegara"></div>
+      </div>
+    </div>
+
+    <div class="drawer-footer">
+      <button class="btn-reset" id="btnReset" type="button">Reset</button>
+      <button class="btn-apply" id="btnApply" type="button">Apply</button>
+    </div>
+  </aside>
+
   <!-- Scripts: data dulu, baru app -->
   <script src="./data_peserta_pk264.js"></script>
   <script src="./twibbon.js"></script>
+
+  <!-- Drawer glue -->
+  <script>
+    const drawer   = document.getElementById('drawer');
+    const backdrop = document.getElementById('backdrop');
+
+    document.getElementById('openFilter').onclick  = () => {
+      drawer.classList.add('open'); backdrop.classList.add('show');
+      drawer.setAttribute('aria-hidden','false'); backdrop.setAttribute('aria-hidden','false');
+    };
+    document.getElementById('closeFilter').onclick = () => {
+      drawer.classList.remove('open'); backdrop.classList.remove('show');
+      drawer.setAttribute('aria-hidden','true'); backdrop.setAttribute('aria-hidden','true');
+    };
+    backdrop.onclick = () => document.getElementById('closeFilter').click();
+
+    function renderChips(id, list, key){
+      const wrap = document.getElementById(id); if (!wrap) return;
+      wrap.innerHTML = '';
+      (list||[]).forEach(v=>{
+        const b = document.createElement('button');
+        b.className='chip'; b.textContent=v; b.dataset.key=key; b.dataset.value=v;
+        b.setAttribute('aria-pressed','false'); b.type='button';
+        b.onclick = () => b.setAttribute('aria-pressed', b.getAttribute('aria-pressed')==='true' ? 'false':'true');
+        wrap.appendChild(b);
+      });
+    }
+    (function seedChips(){
+      if (!Array.isArray(window.DATA)) return;
+      const kelompok = [...new Set(window.DATA.map(r=>r.Kelompok).filter(Boolean))].sort();
+      const negara   = [...new Set(window.DATA.map(r=>r.Negara || r.Country || r['Negara Tujuan']).filter(Boolean))].sort();
+      renderChips('chipsKelompok', kelompok, 'kelompok');
+      renderChips('chipsNegara',   negara,   'negara');
+    })();
+
+    document.getElementById('btnReset').onclick = () => {
+      document.querySelectorAll('.chip').forEach(c=>c.setAttribute('aria-pressed','false'));
+    };
+    document.getElementById('btnApply').onclick = () => {
+      const selected={kelompok:[],negara:[]};
+      document.querySelectorAll('.chip[aria-pressed="true"]').forEach(ch=> selected[ch.dataset.key].push(ch.dataset.value));
+      // Integrasi ke twibbon.js jika diperlukan:
+      // applyFilters({ search: document.getElementById('searchInput').value, ...selected });
+      document.getElementById('closeFilter').click();
+    };
+  </script>
 </body>
 </html>
-
