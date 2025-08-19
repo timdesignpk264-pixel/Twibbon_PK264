@@ -578,7 +578,8 @@ function passesFilters(rec){
     });
   }
 
-  dataStatus && (dataStatus.textContent = `Data (${DATA.length} baris) ${csvInfo}`);
+  dataStatus.textContent = "";
+
 
   // Seed chips dari data
   renderChips(chipsKelompok, uniqSorted(DATA.map(r=>r.Kelompok)));
@@ -944,3 +945,4 @@ nameSelect && nameSelect.addEventListener("change", ()=>{
   const rec = DATA.find(r=> String(r["Full Name"]).trim() === String(nameSelect.value).trim());
   if (rec) chooseRecord(rec);
 });
+
