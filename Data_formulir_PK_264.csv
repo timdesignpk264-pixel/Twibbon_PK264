@@ -1,316 +1,1000 @@
-Kelompok;Full Name;University;Program of Study
-PK264-1-Yudishtira;Aditiya Pratama Masyhuri;State Islamic University of Salatiga;Master of Islamic Religious Education
-PK264-1-Yudishtira;Wancik Ridwan Barari;University of Indonesia;Master of Psychology
-PK264-1-Yudishtira;Beatha O Kupun;Gadjah Mada University;Master of Development Economics
-PK264-1-Yudishtira;Muhammad Natsir Tarani;Muhammadiyah University of Surakarta;Master of Islamic Religious Education
-PK264-1-Yudishtira;Nur Hidayah Nasution;Padang State University;Master of Guidance and Counseling
-PK264-1-Yudishtira;Faiq Realgar Windrasto;Imperial College London;MSc in Sustainable Energy Futures
-PK264-1-Yudishtira;Bernardino Rakha Adjie Brata;University of Chicago;Master of Laws
-PK264-1-Yudishtira;Mochammad Fadjar Syahputra;University of Strathclyde;MSc in Sustainable Engineering: Marine Technology
-PK264-1-Yudishtira;Udrajaka Odhissy Girindra Dharmasandhi;King's College London;Master of Arts in War Studies
-PK264-1-Yudishtira;Rahardian Jati Jiwandono;University of Leeds;Master of Arts in Global Governance and Diplomacy
-PK264-1-Yudishtira;Arditto Akbar;University of Liverpool;Master of Arts in International Relations and Security
-PK264-1-Yudishtira;Fadia Izzabella Anshori;University of Leeds;Master of Science in Enterprise and Entrepreneurship
-PK264-1-Yudishtira;Anggina Vanessa;RWTH Aachen University;MSc in Sustainability Management
-PK264-1-Yudishtira;Putu Agus Ary Wiratama;University of Dundee;MSc in Sustainability and Environmental Modelling
-PK264-1-Yudishtira;Sulastri Prihandini;University of Glasgow;MSc in Sustainable Water Environments
-PK264-1-Yudishtira;Hefina Aissa Gunawan;University College London;MSc in Infection and Immunity
-PK264-1-Yudishtira;Muhammad Bari Akhdan Prajadiredja;Lancaster University;Master of Science in Innovation and Entrepreneurship
-PK264-1-Yudishtira;Ahmad Alfani Handoyo;University of Cambridge;MPhil in Human-Inspired Artificial Intelligence
-PK264-1-Yudishtira;Natasya Sekar Larasati;KEDGE Business School;MSc in International Trade and Logistics
-PK264-1-Yudishtira;Ardin Raizki Hibatullah;University of Toronto;Master of Chemical Engineering
-PK264-1-Yudishtira;Rasendrya Hafiz;London School of Economics;Master of Laws
-PK264-1-Yudishtira;Benaya E. G. Sembiring;University of Sheffield;MMet in Advanced Metallurgy
-PK264-1-Yudishtira;Nurul Khaerani Anwar;University of Manchester;MSc in Renewable Energy and Clean Technology
-PK264-1-Yudishtira;Diah Sarasti;Aix-Marseille University;MSc in Management - International Business
-PK264-1-Yudishtira;Sonia Vinithadas;KEDGE Business School;MSc in Data Analytics for Business
-PK264-1-Yudishtira;Muhammad Naufal Yunan;Imperial College London;MSc in Geo-Energy with Machine Learning
-PK264-1-Yudishtira;Hardian Nathanael Tantosa;University of Auckland;Master of Information Technology
-PK264-1-Yudishtira;Ulivia Tejo Saputri;University of Glasgow;Master of Public Policy and Management
-PK264-1-Yudishtira;Fanny Annita Raprap;Ghent University;Master of Science in Global Health
-PK264-1-Yudishtira;Bari Ahmad Adhyasta;Harvard University;Master of Public Health in Global Health
-PK264-1-Yudishtira;Helda Andayany;Brawijaya University;Doctor of Physics
-PK264-1-Yudishtira;Maulana Afifudin;Jakarta State University;Doctor of Management Science
-PK264-1-Yudishtira;Nurun Sariyah;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-1-Yudishtira;Deshinta Puspa Ayu Dwi Argaswari;Indonesian International Islamic University;Doctor of Education
-PK264-1-Yudishtira;Jhon Wesly Manik;Brawijaya University;Doctor of Physics
-PK264-1-Yudishtira;Moch. Sholeh;Brawijaya University;Doctor of Medical Science
-PK264-1-Yudishtira;Nurjanah;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-1-Yudishtira;Aurizan Himmi Azhar;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-1-Yudishtira;Cahya Wisnu Ardi;University of Leeds;PhD in Earth and Environment
-PK264-1-Yudishtira;Hendra Arisman;Wageningen University;PhD in Environment and Climate Research
-PK264-1-Yudishtira;Mohamad Iqbal Akhirudin;Kyoto University;PhD from Graduate School of Economics
-PK264-1-Yudishtira;Wida Ayu Puspitosari;University College London;PhD in Geography
-PK264-1-Yudishtira;Awal Aflizal;University of Science & Technology;PhD in Convergence Manufacturing System Engineering
-PK264-1-Yudishtira;Elmyra Felicia Clararetta;University of Queensland;Doctor of Philosophy
-PK264-1-Yudishtira;Masyitha Wahid;University of Sheffield;PhD from School of Biosciences
-PK264-1-Yudishtira;Muhammad Hilal Sudarbi;University of Groningen;PhD from Graduate School of Science and Engineering (GSSE)
-PK264-1-Yudishtira;Anugerah Tiffanyputri Kristiani;University of Southampton;PhD in Engineering and the Environment
-PK264-1-Yudishtira;Florence Fedora Agustina;University of Birmingham;Master of Science in Business Analytics
-PK264-1-Yudishtira;Asiah Annur Sarhani;Ecole Centrale de Nantes;MSc in Mechanical Engineering - Energetics and Propulsion
-PK264-1-Yudishtira;Adella Tanuwidjaja;University of Chicago;Master of Laws
-PK264-1-Yudishtira;Bimmita Ifariza Kholiq;Imperial College London;Master of Public Health
-PK264-1-Yudishtira;Sastia Susanti;Ghent University;Master of Science in Pharmaceutical Engineering
-PK264-1-Yudishtira;Agustina Nur Syafarianty;Technical University of Munich;MSc in Geodesy and Geoinformation
-PK264-2-Bima;Agus Supriyanto;Diponegoro University;Master of Urban and Regional Planning
-PK264-2-Bima;Verra Sanny Br Siahaan;Indonesia University of Education;Master of Physics Education
-PK264-2-Bima;Nur Fauzi Ramadhan;University of Indonesia;Master of Law
-PK264-2-Bima;Rizky Ikwan;Diponegoro University;Specialist in Clinical Nutrition
-PK264-2-Bima;Barnard M. Syaifudin;Brawijaya University;Specialist in Orthopaedics and Traumatology
-PK264-2-Bima;Zeffa Yurihana;Indonesia University of Education;Master of Guidance and Counseling
-PK264-2-Bima;Yudas Alep Itlay;Gadjah Mada University;Master of Management and Public Policy
-PK264-2-Bima;Maureen Gembryani Mulia;University of Cambridge;MPhil in Genomics Medicine
-PK264-2-Bima;Annisa Fakhriya Rofi;University of Leeds;Master of Science in Food Science and Nutrition
-PK264-2-Bima;Salsabila Rezkia Andini;Imperial College London;Master of Public Health
-PK264-2-Bima;Rania Aurelia Ayu Damayanti;London School of Economics;MSc in Human Resources and Organisations
-PK264-2-Bima;Kosasih Prawiro;Newcastle University;Master of Arts in International Politics (Global Justice and Ethics)
-PK264-2-Bima;Cipto Adiguno;University of Oxford;Master of Business Administration
-PK264-2-Bima;Bonifasia Br Karo;Lancaster University;Master of Arts in Applied Linguistics and TESOL
-PK264-2-Bima;Dinda Jhaneta Priceli;University of Dundee;Master of Laws in International Energy Law and Policy
-PK264-2-Bima;Fawwaz Muhammad Raafi;University of Dundee;LLM in International Minerals and Energy Law and Policy
-PK264-2-Bima;Rusyda Tamma Hidayat;Institute of Science Tokyo;Master of Architecture and Building Engineering
-PK264-2-Bima;Mutia Asri Khairunisa;Imperial College London;Master of Science in Applied Bioscience and Biotechnology
-PK264-2-Bima;Anastasia Meroline Zoey Purba;University of California, Berkeley;Master of Civil and Environmental Engineering
-PK264-2-Bima;Nicholas Tobias;University College London;Master of Science in Artificial Intelligence for Sustainable Development
-PK264-2-Bima;Faiz Akbar Raihananda;Imperial College London;MSc in Sustainable Energy Futures
-PK264-2-Bima;Deiny Setiyawan;University of Dundee;LLM in International Minerals & Energy Law & Policy
-PK264-2-Bima;Christian Zakarias Kaisiepo;University of East Anglia;Master of Arts in Education and Development
-PK264-2-Bima;Bambang Yr. Sadono;University of Manchester;MSc in Digital Development
-PK264-2-Bima;Zulkarnain Rhendra Putra;Newcastle University;Master of Environmental Engineering
-PK264-2-Bima;Ratu Arasyti Nabila;University College London;Master of Business
-PK264-2-Bima;Smita Tanaya;University of Oxford;MPhil in Development Studies
-PK264-2-Bima;Aussie Virnadya Wijayanto;University College London;Master of Science in Project and Enterprise Management
-PK264-2-Bima;Azkabellajati Syefera;University College London;Master of Science in Urban Development Planning
-PK264-2-Bima;Andi Ameliah Lestari;University of Glasgow & Bandung Institute of Technology;Adam Smith Business School & Master of Business Administration
-PK264-2-Bima;Ridho Azhar Rivaldy;University of Glasgow;Master of Management with Human Resources
-PK264-2-Bima;Tesa Lolia Mita;Durham University;MA in Research Methods (Developmental Psychology)
-PK264-2-Bima;Atifah Nureza Tarigan;University Of New South Wales;Master of Architecture
-PK264-2-Bima;Muhammad Alif Muqorrabin;University of Dundee;MSc in Sustainability and Environmental Modelling
-PK264-2-Bima;Kadek Laksmi Satyawati;University of Dundee;MSc in Sustainability and Environmental Modelling
-PK264-2-Bima;Devyandra Eka Putri;University College London;Master of Science in Sustainable Resources: Economics, Policy, and Transition
-PK264-2-Bima;Halimatussa'diyah;Imperial College London;MSc in Advanced Chemical Engineering
-PK264-2-Bima;Muhammad Dzaki Dhiya Ulhaq;Indonesian International Islamic University;Doctor of Economics
-PK264-2-Bima;Andi Irawan;Indonesian International Islamic University;Doctor of Economics
-PK264-2-Bima;Bamba Abdoulaye;Indonesian International Islamic University;Doctor of Education
-PK264-2-Bima;Syahid Abdulloh;Institute of Al-Qur'an Sciences;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-2-Bima;Fatwa Azmi Syahriza;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-2-Bima;Nelly Ayu Apriliani;Sebelas Maret University;Doctor of Civil Engineering
-PK264-2-Bima;Alfian Adie Chandra, ST., M.Eng;Sepuluh Nopember Institute of Technology;Doctor of Marine Engineering
-PK264-2-Bima;Anauta Lungiding A R;PTIQ University Jakarta;Doctor of Al-Quran and Tafsir Sciences
-PK264-2-Bima;Zulfadhilah Ismail;University of Oxford;PhD in Biology
-PK264-2-Bima;Novin Teristiandi;University of Auckland;PhD in Population Health
-PK264-2-Bima;Anastasia Septya Titisari;University of Southampton;PhD in Engineering and the Environment
-PK264-2-Bima;Audia Azizah Azani;ETH Zürich;PhD in Construction Heritage and Preservation
-PK264-2-Bima;Baihaqi Abdullah;Seoul National University;PhD in International Studies
-PK264-2-Bima;Meutia Khaliya;University of Dundee;PhD from Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)
-PK264-2-Bima;Ana T. Novena Damar Asri;University of Malaya;PhD from Institute of Biological Science
-PK264-2-Bima;Andri Hendrizal;University of Manchester;PhD in Development Policy and Management
-PK264-2-Bima;Taufiq Firdaus Al Muzaky;Indonesian International Islamic University;Doctor of Islamic Studies
-PK264-3-Arjuna;Agung Iman Setyawan;Gadjah Mada University;Master of Development Economics
-PK264-3-Arjuna;Mochamad Lazuardi Alwi;Brawijaya University;Master of Communication Science
-PK264-3-Arjuna;Fikri Fajrul Falah;Diponegoro University;Specialist in Internal Medicine
-PK264-3-Arjuna;Muhamad Widyantoro;Ahmad Dahlan University;Master of Informatics
-PK264-3-Arjuna;Diar Tyas Anjasmara Sanggenafa;Airlangga University;Specialist in Urology
-PK264-3-Arjuna;Pudyo Kriswhardani;Brawijaya University;Specialist in Anesthesiology and Intensive Therapy
-PK264-3-Arjuna;Windiarti Anisa Fitri;Diponegoro University;Master of Nutrition Science
-PK264-3-Arjuna;Dedy Savradinata;Prof. Dr. dr. Mahar Mardjono National Brain Center Hospital;Specialist in Neurointervention
-PK264-3-Arjuna;Khairani Ummah;Harapan Kita National Heart Center;Specialist in Interventional Cardiology
-PK264-3-Arjuna;Akhmad Prabowo Kurniawan;Cranfield University;MSc in Safety and Human Factors in Aviation
-PK264-3-Arjuna;Annan Mikail Ramadhan Atmawidjaja;Institute of Science Tokyo;Master of Industrial Engineering and Economics
-PK264-3-Arjuna;Agung Puji Raharjo;University of Manchester;MSc in Robotics
-PK264-3-Arjuna;Dwi Syafina Koestendyah;University Of New South Wales;Master of Laws
-PK264-3-Arjuna;Bagas Prasetya Fazri;Lancaster University;Master of Innovation and Entrepreneurship
-PK264-3-Arjuna;Nadia Ambar Shofiya;University of Birmingham;MSc in Financial Economics
-PK264-3-Arjuna;Arief Hasanul Husnan Nasution;University of Dundee;Master of International Energy Law and Policy
-PK264-3-Arjuna;Mayella Sherly Winesia;University of Warwick;MSc in Marketing and Strategy
-PK264-3-Arjuna;Bena Milada Susilo;Toulouse III - Paul Sabatier University;Master of International Management of Tourism and Air Transport
-PK264-3-Arjuna;Barra Alfarisi Abadi;University College London;MSc in Telecommunications with Business
-PK264-3-Arjuna;Muhammad Akbar S Kurniawan;Universiti Putra Malaysia;Master of Science in Chemistry
-PK264-3-Arjuna;Gabriel Andersen Mathias Putra Sirait;University of Manchester;MSc in Climate Change: Science, Society, Solutions
-PK264-3-Arjuna;Juwindy Sandra Sativany Kapitan;University of Sussex;Master of Arts in Development Studies
-PK264-3-Arjuna;Vanessa Caitlin;University of Manchester;Master of Arts in International Education
-PK264-3-Arjuna;Samuel Albert Bill Clinton Hasurungan Sitompul;EDHEC Business School;MSc in Entrepreneurship & Innovation
-PK264-3-Arjuna;Nuzulina Fitri;RWTH Aachen University;MSc in Management and Engineering in Technology, Innovation, Marketing & Entrepreneurship
-PK264-3-Arjuna;Avila Amorita;KU Leuven;Master of Science in Digital Media and Society
-PK264-3-Arjuna;I Made Wikandana;University College London;MSc in Disability, Design and Innovation
-PK264-3-Arjuna;Abraham Ben Gurion;University of Leeds;MSc in Criminal Justice and Criminology
-PK264-3-Arjuna;Giovanna Renee Tan;University College London;MSc in Global Health and Development
-PK264-3-Arjuna;Ivana Markus;London School of Economics;MSc in Economic Policy for International Development
-PK264-3-Arjuna;Amrina;Lancaster University;MSc in Innovation and Entrepreneurship
-PK264-3-Arjuna;Kristo Pandawa Yudha Simanjuntak;University of Birmingham;Master of Arts in Conflict, Security and Development
-PK264-3-Arjuna;Bella Mudiniyanti;Imperial College London;MSc in Responsible Mining and Metals Finance
-PK264-3-Arjuna;Intan Octavia;University of Manchester;MSc in Business Psychology
-PK264-3-Arjuna;Nindita;King's College London;MSc in Women and Children's Health
-PK264-3-Arjuna;Jacqueline Abigael Tutuhatunewa;Chung-Ang University;Global MBA
-PK264-3-Arjuna;Yusuf Caesaro Audianto;University of Glasgow;MSc in Criminology and Criminal Justice
-PK264-3-Arjuna;Putu Adika Reswara;Imperial College London;MSc in Sustainable Energy Futures
-PK264-3-Arjuna;Abid Nurhuda;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-3-Arjuna;Soleh Hasan Wahid;Indonesian International Islamic University;Doctor of Islamic Studies
-PK264-3-Arjuna;Ebrahim Omar Obaid Basalma;Indonesian International Islamic University (UIII);Doctor of Education
-PK264-3-Arjuna;Rahayu;Brawijaya University;Doctor of Mechanical Engineering
-PK264-3-Arjuna;Agustinus Deka Betan;Diponegoro University;Doctor of Law
-PK264-3-Arjuna;Yosefina Daku;Monash University Indonesia;Doctor of Philosophy in Medicine, Nursing, and Health Sciences
-PK264-3-Arjuna;Andi Windah;Indonesian International Islamic University;PhD in Islamic Studies
-PK264-3-Arjuna;Ayesha Sadaf;University Of New South Wales;PhD in Computer Science and Engineering
-PK264-3-Arjuna;Ahmad Naghim Fauzaini Prawirosoenoto;Imperial College London;PhD in Civil and Environmental Engineering
-PK264-3-Arjuna;Sekar Mentari;University of Cambridge;PhD in Public Health and Primary Care
-PK264-3-Arjuna;Aufia Espressivo;University of Sydney;Doctor of Philosophy (Science)
-PK264-3-Arjuna;Elisabeth Brielin Sinu;King's College London;PhD in Dental and Health Sciences Research
-PK264-3-Arjuna;Agatha Ravi Vidiasratri;University Of New South Wales;Doctor of Philosophy in Chemical Engineering
-PK264-3-Arjuna;Silvya Yusri;University of Groningen;PhD from Graduate School for the Humanities
-PK264-3-Arjuna;Angela Upitya Paramitasari;University of Leeds;PhD in Accounting and Finance
-PK264-3-Arjuna;Aulia Herdiani;Indonesian International Islamic University;Phd in Economics
-PK264-4-Srikandi;Yonanda Alvino;University of Sheffield;Master of Public Health
-PK264-4-Srikandi;Manova Scotia Hutahaean;King's College London;Master of Laws (LLM)
-PK264-4-Srikandi;Koffi Haryasena Marhayudi;University Of New South Wales;Master of Commerce
-PK264-4-Srikandi;Moh. Arief Sah;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-4-Srikandi;Bobby Riana Dwi Atmojo;Diponegoro University;Master of Information Systems
-PK264-4-Srikandi;Andre Tamaela;Bandung Institute of Technology;Master of Highway Systems and Engineering
-PK264-4-Srikandi;Martelda Natbais;Brawijaya University;Master of Physics
-PK264-4-Srikandi;Anak Agung Yuniartha;University of Indonesia;Master of Industrial Engineering
-PK264-4-Srikandi;Rizkia Lana Maureen;Gadjah Mada University;Master of Development Economics
-PK264-4-Srikandi;Munawar Wahid;Gadjah Mada University;Master of Development Economics
-PK264-4-Srikandi;Gilang Reksa Pamungkas;University of Leeds;MSc (Eng) in Transport Infrastructure: Design and Construction
-PK264-4-Srikandi;Fiona Natasha;University College London;MSc in Biochemical Engineering
-PK264-4-Srikandi;Annisa Pramita Nur Puspitasari;University of Warwick;MSc in Data Analytics
-PK264-4-Srikandi;Nova Dahani Putri;University of Chicago;Master of Laws
-PK264-4-Srikandi;Anna Maria Agra Nathanniela Satyaningati;Tohoku University;Master from International Graduate Program of Language Sciences
-PK264-4-Srikandi;Akhmad Syihan Santoso;KEDGE Business School;MSc in International Trade and Maritime Logistics
-PK264-4-Srikandi;Venissha Claudia Pasaribu;University College London;MSc in Technology Management
-PK264-4-Srikandi;Sisilia Risa Maria Kayame;University of Sussex;MSc in Sustainable Finance and Accounting
-PK264-4-Srikandi;Anindya Yustika;University of Dundee;LLM in International Minerals and Energy Law & Policy
-PK264-4-Srikandi;Ahmad Januar Akbar Mubarok;Institute of Science Tokyo;Master of Global Engineering for Development, Environment and Society
-PK264-4-Srikandi;Salsabila Paradisa;University of Bonn;Master of Geodetic Engineering
-PK264-4-Srikandi;Muhammad Ghozy Ramadhansyah;Cranfield University;MSc in Safety and Human Factors in Aviation
-PK264-4-Srikandi;Gizti Diah Huzaifah;Paul Sabatier University (Toulouse 3);Master of International Management of Air Transport and Tourism
-PK264-4-Srikandi;Khaira Abdillah;University of Tübingen;MSc in Quantitative Data Science Methods
-PK264-4-Srikandi;Stanislaus Christo Petra Nugraha;University of Dundee;MSc in Sustainability and Environmental Modelling
-PK264-4-Srikandi;Khalid Nur Nugraha;Politecnico di Milano;Master of Science in Mechanical Engineering
-PK264-4-Srikandi;Timothy Oliver Octavianus;Imperial College London;MSc of Transport
-PK264-4-Srikandi;Muhammad 'Aqlan Shofwan;University of Leeds;MSc in International Health
-PK264-4-Srikandi;Theodore Schaeffer;University of Cambridge;Master of Finance
-PK264-4-Srikandi;Olga Putri Atsira;King's College London;MSc in Global Mental Health
-PK264-4-Srikandi;Ivan James Aritonang;University College London;MSc in Civil Engineering (with Infrastructure Planning)
-PK264-4-Srikandi;Rizka Fitria Utami;Imperial College London;MSc in Advanced Chemical Engineering
-PK264-4-Srikandi;Gusti Ayu Dyah Adnya Pranitha;University of Freiburg;Master of Science in Sustainable Systems Engineering
-PK264-4-Srikandi;Sheila Annisa Nur El Fajri;Grenoble Ecole de Management;MSc in Management of Sports & Outdoor Markets
-PK264-4-Srikandi;Ferralda Talitha Amir;University of Dundee;MSc in International Energy Management
-PK264-4-Srikandi;Dina Madelin Woisiri;César Ritz Colleges Switzerland;Master of Science in Leadership
-PK264-4-Srikandi;Junaid Daffa Izzudin;University of Leeds;MSc in Climate Futures: Science, Society and Politics
-PK264-4-Srikandi;Suripto;University of Indonesia;Doctor of Medical Science
-PK264-4-Srikandi;Efriani;Padjadjaran University;Doctor of Sociology
-PK264-4-Srikandi;Rheyza Virgiawan;Indonesian International Islamic University;Doctor of Islamic Studies
-PK264-4-Srikandi;Fitriyah Nurfadilah;Indonesian International Islamic University;Doctor of Political Science
-PK264-4-Srikandi;Yusuf Rahim;Institute of Al-Qur'an Sciences;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-4-Srikandi;Andy Yumina Ninu;Brawijaya University;Doctor of Animal Science
-PK264-4-Srikandi;Sayed Israr Samim;Indonesian International Islamic University;PhD in Political Science
-PK264-4-Srikandi;Hayatun Nufus;Indonesian International Islamic University;Doctor of Political Science
-PK264-4-Srikandi;Randhy Nugroho;Ludwig Maximilian University of Munich;PhD from Professorship of Innovation, Entrepreneurship & Sustainability
-PK264-4-Srikandi;Ayu Dyah Pangestu;Nagoya University;PhD from Department of Natural Science (Physics)
-PK264-4-Srikandi;Sesar Prabu Dwi Sriyanto;Tohoku University;PhD in Civil and Environmental Engineering
-PK264-4-Srikandi;Lidya Permata Sari;Kyushu University;PhD from Department of Design
-PK264-4-Srikandi;Siti Hilya Nabila;University of Dundee;PhD from Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)
-PK264-4-Srikandi;Anggar Lugastama;University College London;MPhil/PhD from Development Planning Unit
-PK264-4-Srikandi;Nihayatul Karimah;University of Leeds;PhD in Medicine and Health
-PK264-4-Srikandi;Dwi Bayu Saputra;University of Queensland;Doctor of Philosophy
-PK264-5-Drupadi;Ardha Yosef Retmana;Technical University of Munich;Master of Sustainable Resources Management
-PK264-5-Drupadi;Effran Rajagukguk;University of Dundee;MSc in Sustainability and Renewables
-PK264-5-Drupadi;Musa Bah;Indonesian International Islamic University;Doctor of Political Science
-PK264-5-Drupadi;Arga Miftah Nur Fadlillah;Brawijaya University;Master of Sociology
-PK264-5-Drupadi;Gladys Juane Patulak;Diponegoro University;Specialist in Ophthalmology
-PK264-5-Drupadi;Putri Juliarti;Diponegoro University;Master of Information Systems
-PK264-5-Drupadi;Mikhael Riandi Rakinaung;Gadjah Mada University;Master of Development Economics
-PK264-5-Drupadi;Nonik Septiani;Brawijaya University;Master of Physics
-PK264-5-Drupadi;M. Zulfani Hidayat;PTIQ University Jakarta;Master of Al-Qur'an and Tafsir Sciences
-PK264-5-Drupadi;Fara Aliftisha Maharani;University of Dundee;LLM in International Minerals and Energy Law and Policy
-PK264-5-Drupadi;Muhammad Ali Akbar Sabturil Sesunan;University of Tokyo;Master of Public Policy
-PK264-5-Drupadi;Ihsan Fachry Arba;Imperial College London;MSc in Cardiovascular and Respiratory Healthcare
-PK264-5-Drupadi;Dean Verrell Matalino Ariefin;University College London;MSc in Internet Engineering
-PK264-5-Drupadi;Nandita Tiara Syarahfina;University of Leeds;MA in Corporate Communication, Marketing, and Public Relations
-PK264-5-Drupadi;Desi Sari Ayuni;University of Sussex;MSc in Development Economics
-PK264-5-Drupadi;Vinita Pratijivananti;University of Glasgow;MSc in Political Communication
-PK264-5-Drupadi;Dewa Ayu Sekar Saraswati;University of Glasgow;LLM in Human Rights Law
-PK264-5-Drupadi;Ni Komang Ulun Wangi Sargita;University Of New South Wales;Master of Marine Science and Management
-PK264-5-Drupadi;Arinal Falaah Muhammad;University Of New South Wales;Master of Engineering Science (Robotics)
-PK264-5-Drupadi;Puteri Sunitha Aprisani Corputty;Centrale Lyon;International Master in Atmosphere, Ocean and Climate Science
-PK264-5-Drupadi;Khanza Amira Bumi Lubis;University College London;MSc in Spatio-temporal Analytics and Big Data Mining
-PK264-5-Drupadi;Salman Karim Alfarizi;Panthéon-Assas University;LLM in International Business Law
-PK264-5-Drupadi;Maghfira Ramadhanty;King's College London;MSc in Digital Economy
-PK264-5-Drupadi;I Nyoman A Astina Putra;Centrale Lyon;International Master in Atmosphere, Ocean and Climate Science
-PK264-5-Drupadi;Muhammad Arlis;Yale University;Master of Business Administration
-PK264-5-Drupadi;Mohd Ganiswara Afif Kharisma;Lancaster University;MSc in Innovation and Entrepreneurship
-PK264-5-Drupadi;Alizza Laily Yuhana;University Of New South Wales;Master of Laws
-PK264-5-Drupadi;Agung Firmana;University of Dundee;MSc in International Energy Studies and Energy Economics
-PK264-5-Drupadi;Aliva Erhan Sefira Asrikamongga;SOAS University of London & UIII;MA in Islamic Studies & Master of Education
-PK264-5-Drupadi;Indah Mustika Dewi;Imperial College London;MSc in Geo-Energy with Machine Learning and Data Science
-PK264-5-Drupadi;Gracia Grand Dinarta Veronica La Maureen Pelawi;University of Dundee;LLM in International Minerals & Energy Law and Policy
-PK264-5-Drupadi;Muhammad Arief Ramadhan;University of Oxford;Master of Business Administration
-PK264-5-Drupadi;Dya Savica;University of Leeds;MA in International Marketing Management
-PK264-5-Drupadi;Rebeca Yapeno;University of Cambridge;Master of Business Administration
-PK264-5-Drupadi;Anastania Melinda;Aix-Marseille University;MSc in Management, Entrepreneurship, and Innovation
-PK264-5-Drupadi;Khoirul Umam;Brawijaya University;Doctor of Management Science
-PK264-5-Drupadi;Balqis Inas;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-5-Drupadi;Muhammad Imaduddin Hidayat;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-5-Drupadi;Huriyatul Fitriyah Noor;Diponegoro University;Doctor of Aquatic Resources Management
-PK264-5-Drupadi;Ismail;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-5-Drupadi;Alvin Wiharja;Indonesia University of Education;Doctor of Sports Education
-PK264-5-Drupadi;Ni Wayan Dewinta Ayuni;Sepuluh Nopember Institute of Technology;Doctor of Statistics
-PK264-5-Drupadi;M. Ridwan Sutisna, M.Pd.;Indonesian International Islamic University;Doctor of Education
-PK264-5-Drupadi;Fajar Eka Samudra;University of Malaya;PhD in Sport and Exercise Science
-PK264-5-Drupadi;Aninda Tifani Puari;University of Groningen;PhD in Science and Engineering
-PK264-5-Drupadi;Nurul Azizah;University of Queensland;Doctor of Philosophy
-PK264-5-Drupadi;Riangga Novrianto;University Medical Center Hamburg-Eppendorf;PhD from Department of Psychiatry and Psychotherapy
-PK264-5-Drupadi;Dyah Nurasri Darmastuti Purboyo;University Of New South Wales;PhD in Petroleum Engineering
-PK264-5-Drupadi;Andhita Mustikaningtyas;Tohoku University;PhD from Graduate School of Environmental Science
-PK264-5-Drupadi;Muhamad Firdaus Al Hakim;Kyoto University;PhD in Human Security Engineering
-PK264-5-Drupadi;Firdhan Aria Wijaya;University of Waikato;PhD in Geography
-PK264-6-Larasati;Puji Astuti;Tanjungpura University;Master of Chemistry
-PK264-6-Larasati;Yudith Natalia Vebryanska Gultom;Gadjah Mada University;Master of Development Economics
-PK264-6-Larasati;Dhanista Hastinata Sukarna Putra;Diponegoro University;Specialist in Pediatrics
-PK264-6-Larasati;Fransiskus Pati Soge;Diponegoro University;Master of Information Systems
-PK264-6-Larasati;Arvia Dwi Royani;Gadjah Mada University;Master of Management
-PK264-6-Larasati;Muhammad Azzamuddin;Gadjah Mada University;Master of Agricultural Industrial Technology
-PK264-6-Larasati;Mohamad Irfan;University of Manchester;MSc in Renewable Energy and Clean Technology
-PK264-6-Larasati;Jenica Alva;University of Dundee;LLM in International Energy Law and Policy
-PK264-6-Larasati;Nadine Nidianti;KEDGE Business School;MSc in International Trade & Logistics
-PK264-6-Larasati;Mawira Aruna Sudarmadi;London School of Economics;Master of Laws (LLM)
-PK264-6-Larasati;Muhammad Stally Argha Pradipta;Imperial College London;MSc in Machine Learning and Process Systems Engineering
-PK264-6-Larasati;Jennifer Natalie;University of Dundee;MSc in Sustainability: Climate Change and Transitions
-PK264-6-Larasati;Mohammad Rifky Wahyudi;University of Dundee;MSc in Sustainability and Renewables
-PK264-6-Larasati;Yovita Melati Putri;University College London;MPA in Development, Technology, and Innovation Policy
-PK264-6-Larasati;Asman Hafiz;University of Sussex;MA in Cultural and Creative Industries
-PK264-6-Larasati;Hasta Agsoinna Alhaqqi;University College London;MSc in Infrastructure Investment and Finance
-PK264-6-Larasati;Elia Andwijuva Imanuel;Politecnico di Milano;Master of Science in Civil Engineering
-PK264-6-Larasati;Ika Marta Nia;University of New South Wales;Master of Health Leadership and Management (Extension)
-PK264-6-Larasati;Wintari Ayu Alifiah;University of Leeds;MA in International Business
-PK264-6-Larasati;Julian Irham Siahaan;University of Manchester;MSc in Business Analytics: Operational Research & Risk Analysis
-PK264-6-Larasati;Rizky Duanita Hermilia;University of Dundee;MSc in Oil and Gas Management
-PK264-6-Larasati;Ayu Permata Dita;University of Dundee;MSc in International Energy Studies and Energy Economics
-PK264-6-Larasati;Novan Bagaskara;University of Dundee;MSc in Sustainability and Renewables
-PK264-6-Larasati;Ventin Ariandy;King's College London;MSc in Climate Change: Environment, Science and Policy
-PK264-6-Larasati;Jessica Syafaq Muthmaina;University of Padova;Master of Science in Astrophysics and Cosmology
-PK264-6-Larasati;Anggi Ariskhan;London School of Economics;MSc in Social Innovation and Entrepreneurship
-PK264-6-Larasati;Delabriliano Ismail;KEDGE Business School;MSc in Data Analytics for Business
-PK264-6-Larasati;Nadira Annisa;Keio University;Master of Media Design
-PK264-6-Larasati;Hilma Awalia Rahmah;University College London;MSc in Clinical Pharmacy, International Practice and Policy
-PK264-6-Larasati;Gerry Rido Anggriano Simbolon;University College London;MSc in Telecommunications with Business
-PK264-6-Larasati;Jovan Christopher;University of Manchester;MSc in Marketing
-PK264-6-Larasati;Agnes Galuh Sekarlangit Boru Simamora;University of Chicago;Master of Laws (LLM)
-PK264-6-Larasati;Aqila Shabrina;University of Leeds;Master of Architecture
-PK264-6-Larasati;Lia Fadhilla Thamrin;University of Oxford;Master of Business Administration
-PK264-6-Larasati;Herlina Ika Ratnawati;Bogor Agricultural University (IPB);Doctor of Applied Climatology
-PK264-6-Larasati;Lukman Hakim;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-6-Larasati;Rosa Delima Pangaribuan;Diponegoro University;Doctor of Aquatic Resources Management
-PK264-6-Larasati;Miftahul Mahrus;Indonesian International Islamic University;Doctor of Education
-PK264-6-Larasati;Dr. Waluyo Sugito;University of Indonesia;Doctor of Medical Science
-PK264-6-Larasati;Jap Mai Cing;University of Indonesia;Doctor of Biomedical Science
-PK264-6-Larasati;Syahrul Rahman;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences
-PK264-6-Larasati;Ramli;Indonesian International Islamic University;Doctor of Education
-PK264-6-Larasati;Daniel Wojtyla;University of Nottingham;PhD in Finance and Risk
-PK264-6-Larasati;Hanifatur Rosyidah;University of Western Australia;PhD in Health (Medicine)
-PK264-6-Larasati;Rinaldi;University of Dundee;PhD in Economics of Energy
-PK264-6-Larasati;Azizah Syafira;Vrije Universiteit Amsterdam;PhD from Graduate School of Humanities
-PK264-6-Larasati;Baiq Nila Sari Ningsih;University of Warwick;PhD in Chemistry
-PK264-6-Larasati;Eka Puspita Sari;Victoria University of Wellington;PhD in Education
-PK264-6-Larasati;Rifqi Irvansyah;University College London;MPhil/PhD in Civil, Environmental and Geomatic Engineering
-PK264-6-Larasati;Muhammad Yusril Sulaiman;Imperial College London;PhD in Civil and Environmental Engineering (Structural Biomechanics)
+Kelompok;Full Name;University;Program of Study;First Name;Middle Name;Last Name;Nickname;mail ;Phone;Instagram;linkedin;Jenis Gelar;Negara Tujuan;Mulai Studi;Selesai Studi
+PK264-1-Yudishtira;Aditiya Pratama Masyhuri;State Islamic University of Salatiga;Master of Islamic Religious Education;Aditiya;Pratama;Masyhuri ;Adit;adit7pm@gmail.com;6285712220936;instagram.com/Aditiyapm;linkedin.com/;Magister Dalam Negeri;Indonesia;09-Jan-25;30-Jul-27
+PK264-1-Yudishtira;Wancik Ridwan Barari;University of Indonesia;Master of Psychology;Wancik;Ridwan;Barari ;Ridwan;wbarari@gmail.com;6285328121041;instagram.com/pk264.lpdp/;linkedin.com/in/wancik-ridwan-barari-681a44136;Magister Dalam Negeri;Indonesia;25-Agu-2025;19-Jul-27
+PK264-1-Yudishtira;Beatha O Kupun;Gadjah Mada University;Master of Development Economics;Beatha;O;Kupun ;Ata;05kupunbeatha@gmail.com;6285279731674;instagram.com/beathakupun;linkedin.com/;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-1-Yudishtira;Muhammad Natsir Tarani;Muhammadiyah University of Surakarta;Master of Islamic Religious Education;Muhammad;Natsir;Tarani ;Natsir;mnatsirtarani@gmail.com;6285256327644;instagram.com/muhammad_natsir_tarani;linkedin.com/in/muhammad-natsir-tarani-8212991b2;Magister Dalam Negeri;Indonesia;9-Mei-2025;31-Agu-2027
+PK264-1-Yudishtira;Nur Hidayah Nasution;Padang State University;Master of Guidance and Counseling;Nur;Hidayah;Nasution ;Nur;nurnst56@gmail.com;6282272753759;instagram.com/NurNasution;linkedin.com/in/nur-nasution-b79b28374;Magister Dalam Negeri;Indonesia;25-Agu-2025;25-Agu-2027
+PK264-1-Yudishtira;Faiq Realgar Windrasto;Imperial College London;MSc in Sustainable Energy Futures;Faiq;Realgar;Windrasto ;Faiq;windrasto.faiq@gmail.com;17739980888;instagram.com/pk264.lpdp/;linkedin.com/in/faiqwindrasto;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-1-Yudishtira;Bernardino Rakha Adjie Brata;University of Chicago;Master of Laws;Bernardino;Rakha Adjie;Brata ;Rakha;bernardino.rakha@gmail.com;6282111773877;instagram.com/bernardinorakha;linkedin.com/in/bernardino-rakha-adjie-brata-75406562;Magister Luar Negeri;Amerika Serikat;18-Sep-25;06-Jun-26
+PK264-1-Yudishtira;Mochammad Fadjar Syahputra;University of Strathclyde;MSc in Sustainable Engineering: Marine Technology;Mochammad;Fadjar;Syahputra ;Fadjar;fadjarputra@gmail.com;628119994434;instagram.com/Fsyahputra;linkedin.com/in/mochammad-fadjar;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-25
+PK264-1-Yudishtira;Udrajaka Odhissy Girindra Dharmasandhi;King's College London;Master of Arts in War Studies;Udrajaka;Odhissy Girindra;Dharmasandhi ;Jaka;udrajaka@gmail.com;6281232040498;instagram.com/udrajaka;linkedin.com/in/udrajaka;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-1-Yudishtira;Rahardian Jati Jiwandono;University of Leeds;Master of Arts in Global Governance and Diplomacy;Rahardian;Jati;Jiwandono ;Rahardian;rahardianjj@yahoo.co.id;6282137066613;instagram.com/rhrdnjt;linkedin.com/in/rahardian-jj-10663a373;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-1-Yudishtira;Arditto Akbar;University of Liverpool;Master of Arts in International Relations and Security;Arditto;;Akbar ;Arditto;dittoakbar501@gmail.com;6282120202141;instagram.com/dittoakbar_205;linkedin.com/in/dittoakbar;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-1-Yudishtira;Fadia Izzabella Anshori;University of Leeds;Master of Science in Enterprise and Entrepreneurship;Fadia;Izzabella;Anshori ;Fadia;izzabellafadia@gmail.com;6282299561562;instagram.com/fadiaizzabel;linkedin.com/in/fadia-izzabella-a-1580821ba;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-1-Yudishtira;Anggina Vanessa;RWTH Aachen University;MSc in Sustainability Management;Anggina;;Vanessa ;Anggi;angginavanessa@gmail.com;6287881330660;instagram.com/pk264.lpdp/;linkedin.com/;Magister Luar Negeri;Jerman;10-Jan-25;31-Mar-27
+PK264-1-Yudishtira;Putu Agus Ary Wiratama;University of Dundee;MSc in Sustainability and Environmental Modelling;Putu;Agus Ary;Wiratama ;Ary;wagusary@gmail.com;6281239752847;instagram.com/arywiratamaa;linkedin.com/in/arywiratama;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-1-Yudishtira;Sulastri Prihandini;University of Glasgow;MSc in Sustainable Water Environments;Sulastri;;Prihandini ;Astri;prihandinisulastri@gmail.com;6285157705904;instagram.com/iniiastrii_;linkedin.com/in/sulastri-prihandini;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-26
+PK264-1-Yudishtira;Hefina Aissa Gunawan;University College London;MSc in Infection and Immunity;Hefina;Aissa;Gunawan ;Hefina;hefinaag@gmail.com;6282219232760;instagram.com/hefinaaissa;linkedin.com/in/hefina-aissa-gunawan-24a059235;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-1-Yudishtira;Muhammad Bari Akhdan Prajadiredja;Lancaster University;Master of Science in Innovation and Entrepreneurship;Muhammad;Bari Akhdan;Prajadiredja ;Bari;baripradjadireja@gmail.com;6281286503422;instagram.com/bariakhdan;linkedin.com/in/bariakhdan;Magister Luar Negeri;Inggris;10-Jan-25;30-Sep-26
+PK264-1-Yudishtira;Ahmad Alfani Handoyo;University of Cambridge;MPhil in Human-Inspired Artificial Intelligence;Ahmad;Alfani;Handoyo ;Afan;ahmadalfanihandoyo1@gmail.com;6281334406521;instagram.com/afanhandoyo;linkedin.com/in/ahmad-alfani-handoyo;Magister Luar Negeri;Inggris;10-Jan-25;19-Jun-26
+PK264-1-Yudishtira;Natasya Sekar Larasati;KEDGE Business School;MSc in International Trade and Logistics;Natasya;Sekar;Larasati ;Tasya;natasyasdalle@gmail.com;6281266054000;instagram.com/natasyadalle;linkedin.com/in/natasyaslarasati;Magister Luar Negeri;Prancis;16-Sep-25;31-Des-2027
+PK264-1-Yudishtira;Ardin Raizki Hibatullah;University of Toronto;Master of Chemical Engineering;Ardin;Raizki;Hibatullah ;Ardin;ardinraizkinh77@gmail.com;6281314217213;instagram.com/pk264.lpdp/;linkedin.com/in/ardin-raizki-499990254;Magister Luar Negeri;Kanada;09-Jan-25;30-Nov-26
+PK264-1-Yudishtira;Rasendrya Hafiz;London School of Economics;Master of Laws;Rasendrya;;Hafiz ;Hafiz;rasendryahafiz@gmail.com;6281228949392;instagram.com/rasendryah;linkedin.com/in/rasendrya-hafiz-2b75b41b2;Magister Luar Negeri;Inggris;22-Sep-25;27-Sep-26
+PK264-1-Yudishtira;Benaya E. G. Sembiring;University of Sheffield;MMet in Advanced Metallurgy;Benaya;E. G.;Sembiring ;Ben, Benaya;benayamilala283@gmail.com;628819709320;instagram.com/benayasembiring22;linkedin.com/in/benayasembiring;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-1-Yudishtira;Nurul Khaerani Anwar;University of Manchester;MSc in Renewable Energy and Clean Technology;Nurul;Khaerani;Anwar ;Rani;nurulkhaerani02@gmail.com;6282187754979;instagram.com/nurulkhaeranii_;linkedin.com/in/nurul-khaerani-anwar;Magister Luar Negeri;Inggris;22-Sep-25;30-Jun-27
+PK264-1-Yudishtira;Diah Sarasti;Aix-Marseille University;MSc in Management - International Business;Diah;;Sarasti ;Diah / Laura;lrveronika@gmail.com;6281219199050;instagram.com/LauraIndonesia;linkedin.com/in/diah-sarasti-s-kom-pmp-a0a69589;Magister Luar Negeri;Prancis;09-Jan-25;31-Des-2026
+PK264-1-Yudishtira;Sonia Vinithadas;KEDGE Business School;MSc in Data Analytics for Business;Sonia;;Vinithadas ;Vinithadas;soniavinitha@gmail.com;6287875691827;instagram.com/vnthsonia;linkedin.com/in/sonia-v-987ab293;Magister Luar Negeri;Prancis;16-Sep-25;30-Apr-27
+PK264-1-Yudishtira;Muhammad Naufal Yunan;Imperial College London;MSc in Geo-Energy with Machine Learning;Muhammad;Naufal;Yunan ;Naufal;naufalyunan45@gmail.com;6285158579959;instagram.com/pk264.lpdp/;linkedin.com/in/naufalyunan;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-1-Yudishtira;Hardian Nathanael Tantosa;University of Auckland;Master of Information Technology;Hardian;Nathanael;Tantosa ;Nael;hardiannathanael399@gmail.com;6289644258344;instagram.com/nael_deceth;linkedin.com/in/hardian-nathanael-tantosa-761446171;Magister Luar Negeri;Selandia Baru;11-Okt-2025;15-Nov-27
+PK264-1-Yudishtira;Ulivia Tejo Saputri;University of Glasgow;Master of Public Policy and Management;Ulivia;Tejo;Saputri ;Via;uliviatejosaputri@gmail.com;6282133903415;instagram.com/uliviatejo;linkedin.com/in/ulivia-saputri-6566905b;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-26
+PK264-1-Yudishtira;Fanny Annita Raprap;Ghent University;Master of Science in Global Health;Fanny;Annita;Raprap ;Fanny;fannyannita@gmail.com;62811470677;instagram.com/annitafunny;linkedin.com/;Magister Luar Negeri;Belgia;22-Sep-25;30-Sep-27
+PK264-1-Yudishtira;Bari Ahmad Adhyasta;Harvard University;Master of Public Health in Global Health;Bari;Ahmad;Adhyasta ;Bari;bariahmadadhyasta@gmail.com;6282125180101;instagram.com/Adhyasta_bari;linkedin.com/in/bari-ahmad-5a6473191;Magister Luar Negeri;Amerika Serikat;26-Agu-2025;19-Mei-2025
+PK264-1-Yudishtira;Helda Andayany;Brawijaya University;Doctor of Physics;Helda;;Andayany ;Helda;heldaandayany2014@gmail.com;6281240508302;instagram.com/pk264.lpdp/;linkedin.com/in/helda-andayany-610653374;Doktor Dalam Negeri;Indonesia;18-Agu-2025;17-Jul-28
+PK264-1-Yudishtira;Maulana Afifudin;Jakarta State University;Doctor of Management Science;Maulana;;Afifudin ;Afif;Maulanaafifudin46@gmail.com;6282244995497;instagram.com/masmaulanaafifudin;linkedin.com/in/maulana-afifudin-381283129;Doktor Dalam Negeri;INDONESIA;09-Jan-25;09-Jan-29
+PK264-1-Yudishtira;Nurun Sariyah;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Nurun;;Sariyah ;Uun;nurunsariyah@gmail.com;6281358004073;instagram.com/nurunsariyah;linkedin.com/in/nurun-sariyah-83b43b351;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-29
+PK264-1-Yudishtira;Deshinta Puspa Ayu Dwi Argaswari;Indonesian International Islamic University;Doctor of Education;Deshinta;Puspa Ayu Dwi Argaswari,;M.Pd ;Deshinta;deshintapuspa@yahoo.com;6285642361442;instagram.com/ar.deshinta;linkedin.com/in/deshinta-argaswari-b80b9593;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-1-Yudishtira;Jhon Wesly Manik;Brawijaya University;Doctor of Physics;Jhon;Wesly;Manik ;Jhon;jhonweslymanik@mipa.upr.ac.id;6281266748861;instagram.com/pk264.lpdp/;linkedin.com/in/jhon-wesly-manik-b75a98125;Doktor Dalam Negeri;Indonesia;18-Agu-2025;30-Jun-28
+PK264-1-Yudishtira;Moch. Sholeh;Brawijaya University;Doctor of Medical Science;Moch.;;Sholeh ;Sholeh;mochamadsholeh44@gmail.com;6287725050340;instagram.com/samhelos_;linkedin.com/in/moch-sholeh-20a2b4234;Doktor Dalam Negeri;Indonesia;18-Agu-2025;28-Jul-28
+PK264-1-Yudishtira;Nurjanah;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Nurjanah;;;Nur;nurjanahannasimy@gmail.com;6285814152370;instagram.com/nj_annasimy;linkedin.com/in/nurjanahannasimyah;Doktor Dalam Negeri;Indonesia;09-Jun-25;14-Jul-29
+PK264-1-Yudishtira;Aurizan Himmi Azhar;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Aurizan;Himmi;Azhar ;Oriz;aurizanhimmi@gmail.com;6281220046825;instagram.com/aurizanhimmi;linkedin.com/;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-29
+PK264-1-Yudishtira;Cahya Wisnu Ardi;University of Leeds;PhD in Earth and Environment;Cahya;Wisnu;Ardi ;Wisnu;cahyawisnuardi@gmail.com;6285643210585;instagram.com/cahyawisnuardi;linkedin.com/in/cahya-wisnu-ardi-035a99121;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-28
+PK264-1-Yudishtira;Hendra Arisman;Wageningen University;PhD in Environment and Climate Research;Hendra;;Arisman ;Hendra;hendraarisman96@gmail.com;6282197517121;instagram.com/Hendra_arisman18;linkedin.com/in/hendra-a-530a82373;Doktor Luar Negeri;Belanda;10-Jan-25;30-Sep-29
+PK264-1-Yudishtira;Mohamad Iqbal Akhirudin;Kyoto University;PhD from Graduate School of Economics;Mohamad;Iqbal;Akhirudin ;Iqbal;miqbala@gmail.com;6281553074074;instagram.com/kucingberas;linkedin.com/in/miqbala;Doktor Luar Negeri;Jepang;10-Jan-25;30-Sep-29
+PK264-1-Yudishtira;Wida Ayu Puspitosari;University College London;PhD in Geography;Wida;Ayu;Puspitosari ;Wida;widaayupuspitosari@gmail.com;6285736134337;instagram.com/widapuspitosari;linkedin.com/in/wida-ayu-puspitosari-428668bb;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-29
+PK264-1-Yudishtira;Awal Aflizal;University of Science & Technology;PhD in Convergence Manufacturing System Engineering;Awal;;Aflizal ;Awal;aflizal@gmail.com;6281318621235;instagram.com/pk264.lpdp/;linkedin.com/in/aazubir;Doktor Luar Negeri;Korea Selatan;09-Jan-25;21-Agu-2029
+PK264-1-Yudishtira;Elmyra Felicia Clararetta;University of Queensland;Doctor of Philosophy;Elmyra;Felicia;Clararetta ;Felicia;feliciaclar@gmail.com;62811828833;instagram.com/felicia.clar;linkedin.com/in/feliciaclar;Doktor Luar Negeri;Australia;10-Jan-25;30-Sep-29
+PK264-1-Yudishtira;Masyitha Wahid;University of Sheffield;PhD from School of Biosciences;Masyitha;;Wahid ;Sita;masyithawahid@gmail.com;6285242000621;instagram.com/masyithawahid;linkedin.com/in/masyitha-wahid-21090517b;Doktor Luar Negeri;Inggris;10-Jan-25;10-Jan-29
+PK264-1-Yudishtira;Muhammad Hilal Sudarbi;University of Groningen;PhD from Graduate School of Science and Engineering (GSSE);Muhammad;Hilal;Sudarbi ;Hilal;hilalsudarbi@gmail.com;6282144205100;instagram.com/hilalsudarbi;linkedin.com/in/hilal-sudarbi;Doktor Luar Negeri;Belanda;10-Jan-25;30-Sep-25
+PK264-1-Yudishtira;Anugerah Tiffanyputri Kristiani;University of Southampton;PhD in Engineering and the Environment;Anugerah;Tiffanyputri;Kristiani ;Anugerah;anugerah.tiffany@gmail.com;6281296297890;instagram.com/pk264.lpdp/;linkedin.com/in/anugerah-tiffanyputri;Doktor Luar Negeri;Inggris;22-Sep-25;22-Sep-29
+PK264-1-Yudishtira;Florence Fedora Agustina;University of Birmingham;Master of Science in Business Analytics;Florence;Fedora;Agustina ;Flo;florencefedora@gmail.com;628116155841;instagram.com/pk264.lpdp/;linkedin.com/in/florence-f-5953b7115;Magister Luar Negeri;Inggris;29-Sep-25;28-Sep-26
+PK264-1-Yudishtira;Asiah Annur Sarhani;Ecole Centrale de Nantes;MSc in Mechanical Engineering - Energetics and Propulsion;Asiah;Annur;Sarhani ;Asiah;asiahsarhani911@gmail.com;6281311202091;instagram.com/asiaahas;linkedin.com/in/asiah-sarhani;Magister Luar Negeri;Prancis;09-Jan-25;31-Agu-2027
+PK264-1-Yudishtira;Adella Tanuwidjaja;University of Chicago;Master of Laws;Adella;;Tanuwidjaja ;Della;adelladjaja@gmail.com;6282213084936;instagram.com/dellatnw;linkedin.com/in/adella-tanuwidjaja;Magister Luar Negeri;Amerika Serikat;18-Sep-25;06-Jun-26
+PK264-1-Yudishtira;Bimmita Ifariza Kholiq;Imperial College London;Master of Public Health;Bimmita;Ifariza;Kholiq ;Mita;bimmitaifariza@gmail.com;6285701589341;instagram.com/bimmitaaa;linkedin.com/in/bimmitaifarizakholiq;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-1-Yudishtira;Sastia Susanti;Ghent University;Master of Science in Pharmaceutical Engineering;Sastia;;Susanti ;Sastia;sastiasusanti13@gmail.com;6281277109152;instagram.com/sas.tias;linkedin.com/in/sastia;Magister Luar Negeri;Belgia;22-Sep-24;15-Mei-2027
+PK264-1-Yudishtira;Agustina Nur Syafarianty;Technical University of Munich;MSc in Geodesy and Geoinformation;Agustina;Nur;Syafarianty ;Agustina;agustina.nur@big.go.id;6282240516809;instagram.com/pk264.lpdp/;linkedin.com/in/agustina-nur-syafarianty-7a1432106;Magister Luar Negeri;Jerman;10-Jan-25;30-Sep-27
+PK264-2-Bima;Agus Supriyanto;Diponegoro University;Master of Urban and Regional Planning;Agus;;Supriyanto ;Agus;agussupriyanto.as220802@gmail.com;6282254661661;instagram.com/agussupriyanto_as;linkedin.com/in/agus-supriyanto-101684279;Magister Dalam Negeri;INDONESIA;25-Agu-2025;30-Sep-26
+PK264-2-Bima;Verra Sanny Br Siahaan;Indonesia University of Education;Master of Physics Education;Verra;Sanny Br;Siahaan ;Verra;verrasanny971@gmail.com;6282284006628;instagram.com/verr_ss;linkedin.com/in/verra-siahaan-948174292;Magister Dalam Negeri;Indonesia;09-Jan-25;31-Agu-2027
+PK264-2-Bima;Nur Fauzi Ramadhan;University of Indonesia;Master of Law;Nur;Fauzi;Ramadhan ;Fauzi;nurfauziramadhan6@gmail.com;6287871430268;instagram.com/nurfauziramadhan_;linkedin.com/;Magister Dalam Negeri;Indonesia;25-Agu-2025;08-Jan-25
+PK264-2-Bima;Rizky Ikwan;Diponegoro University;Specialist in Clinical Nutrition;Rizky;;Ikwan ;Ikwan;rizkym4n@gmail.com;6282257631443;instagram.com/rizky.ikwan;linkedin.com/in/rizki-ikwan-27a74987;Spesialis Dalam Negeri;Indonesia;7-Agu-2025;31-Des-2028
+PK264-2-Bima;Barnard M. Syaifudin;Brawijaya University;Specialist in Orthopaedics and Traumatology;Barnard;M.;Syaifudin ;Beben/ Barnard;barnardm.syaifudin@gmail.com;6281335593997;instagram.com/Beben_ms;linkedin.com/;Spesialis Dalam Negeri;Indonesia;07-Jan-25;07-Jan-30
+PK264-2-Bima;Zeffa Yurihana;Indonesia University of Education;Master of Guidance and Counseling;Zeffa;;Yurihana ;Zeffa;zeffayurihana13@gmail.com;6281230355380;instagram.com/zeffa.kustanto;linkedin.com/in/zeffa-yurihana-813aa7207;Magister Dalam Negeri;Indonesia;09-Jan-25;31-Agu-2027
+PK264-2-Bima;Yudas Alep Itlay;Gadjah Mada University;Master of Management and Public Policy;Yudas;Alep;Itlay ;Yudas;yudasalepitlay@gmail.com;6281295866884;instagram.com/yudas_itlay;linkedin.com/in/yudas-alep-itlay-344442374;Magister Dalam Negeri;INDONESIA;08-Jan-25;08-Jan-27
+PK264-2-Bima;Maureen Gembryani Mulia;University of Cambridge;MPhil in Genomics Medicine;Maureen;Gembryani;Mulia ;Maureen;mgmulia1206@gmail.com;62816873613;instagram.com/pk264.lpdp/;linkedin.com/in/maureen-gembryani-mulia-134b38190;Magister Luar Negeri;Inggris;10-Jan-25;08-Jan-26
+PK264-2-Bima;Annisa Fakhriya Rofi;University of Leeds;Master of Science in Food Science and Nutrition;Annisa;Fakhriya;Rofi ;Icha;annisaf.rofi@gmail.com;6287882963234;instagram.com/pk264.lpdp/;linkedin.com/in/annisa-fakhriya-rofi-222549374;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-25
+PK264-2-Bima;Salsabila Rezkia Andini;Imperial College London;Master of Public Health;Salsabila;Rezkia;Andini ;Bila;bilarezkiaa@gmail.com;6285926984410;instagram.com/bilarezkiaa;linkedin.com/in/salsabila-rezkia-andini;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-2-Bima;Rania Aurelia Ayu Damayanti;London School of Economics;MSc in Human Resources and Organisations;Rania;Aurelia Ayu;Damayanti ;Rania;raniaaurelia1299@gmail.com;6287880337845;instagram.com/raniaaureliaa;linkedin.com/in/rania-aurelia-63051a198;Magister Luar Negeri;Inggris;25-Sep-25;27-Sep-26
+PK264-2-Bima;Kosasih Prawiro;Newcastle University;Master of Arts in International Politics (Global Justice and Ethics);Kosasih;;Prawiro ;Wiro;rajagukguk48@gmail.com;6281291404416;instagram.com/bikwiro;linkedin.com/in/kosasih-prawiro-99b4ab325;Magister Luar Negeri;Inggris;15-Sep-25;16-Sep-26
+PK264-2-Bima;Cipto Adiguno;University of Oxford;Master of Business Administration;Cipto;;Adiguno ;Cipto;c.adiguno@gmail.com;6285156591215;instagram.com/c.adiguno;linkedin.com/in/cadiguno;Magister Luar Negeri;Inggris;22-Sep-25;13-Sep-26
+PK264-2-Bima;Bonifasia Br Karo;Lancaster University;Master of Arts in Applied Linguistics and TESOL;Bonifasia;Br;Karo ;Boni;bonifasiakaro02@gmail.com;6285378327070;instagram.com/bonifasia_kacaribu;linkedin.com/in/bonifasia-kacaribu-27b790247;Magister Luar Negeri;Inggris;10-Jan-25;30-Sep-26
+PK264-2-Bima;Dinda Jhaneta Priceli;University of Dundee;Master of Laws in International Energy Law and Policy;Dinda;Jhaneta;Priceli ;Jhaneta;dindajhanetp@gmail.com;6281517985905;instagram.com/pk264.lpdp/;linkedin.com/in/dindajhanetapriceli;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-2-Bima;Fawwaz Muhammad Raafi;University of Dundee;LLM in International Minerals and Energy Law and Policy;Fawwaz;Muhammad;Raafi ;Raafi;fawwazraafi2@gmail.com;6281293330111;instagram.com/azraafi;linkedin.com/in/fawwaz-raafi-102a871b9;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-2-Bima;Rusyda Tamma Hidayat;Institute of Science Tokyo;Master of Architecture and Building Engineering;Rusyda;Tamma;Hidayat ;Rusyda;rusydatamma@gmail.com;6281231453234;instagram.com/rusydatamma;linkedin.com/in/rusyda-tamma;Magister Luar Negeri;Jepang;29-Sep-25;28-Sep-27
+PK264-2-Bima;Mutia Asri Khairunisa;Imperial College London;Master of Science in Applied Bioscience and Biotechnology;Mutia;Asri;Khairunisa ;Mutia;makhairunisa@gmail.com;6282298388805;instagram.com/pk264.lpdp/;linkedin.com/in/mutia-asri-khairunisa;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-2-Bima;Anastasia Meroline Zoey Purba;University of California, Berkeley;Master of Civil and Environmental Engineering;Anastasia;Meroline Zoey;Purba ;Anya;anastasiameroline@gmail.com;6281297771772;instagram.com/anyapurba;linkedin.com/in/anastasia-purba-248676214;Magister Luar Negeri;Amerika Serikat;27-Agu-2025;15-Mei-2026
+PK264-2-Bima;Nicholas Tobias;University College London;Master of Science in Artificial Intelligence for Sustainable Development;Nicholas;;Tobias ;Tobias;nicholastobias517@gmail.com;6282114776318;instagram.com/nicho_tbs;linkedin.com/in/nicholas-tobias;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-2-Bima;Faiz Akbar Raihananda;Imperial College London;MSc in Sustainable Energy Futures;Faiz;Akbar;Raihananda ;Faiz;faiz_akbar@outlook.com;6281316789325;instagram.com/pk264.lpdp/;linkedin.com/in/fraihananda;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-2-Bima;Deiny Setiyawan;University of Dundee;LLM in International Minerals & Energy Law & Policy;Deiny;;Setiyawan ;Deiny;deiny.setyawan@gmail.com;6281225181197;instagram.com/pk264.lpdp/;linkedin.com/in/deinysetiyawan;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-2-Bima;Christian Zakarias Kaisiepo;University of East Anglia;Master of Arts in Education and Development;Christian;Zakarias;Kaisiepo ;Chris;kaisiepochristian@gmail.com;6281344716471;instagram.com/young_chrs;linkedin.com/;Magister Luar Negeri;Inggris;15-Sep-25;22-Sep-26
+PK264-2-Bima;Bambang Yr. Sadono;University of Manchester;MSc in Digital Development;Bambang;Yr.;Sadono ;Bambang;y.rajasa@gmail.com;6281214141400;instagram.com/bambangyrs;linkedin.com/in/bambang-yr-sadono-1b6396195;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-2-Bima;Zulkarnain Rhendra Putra;Newcastle University;Master of Environmental Engineering;Zulkarnain;Rhendra;Putra ;Zulkar;almightyrhendraz@gmail.com;6281220429492;instagram.com/rhendraz;linkedin.com/in/zulkarnain-rhendra-891b48374;Magister Luar Negeri;Inggris;15-Sep-25;16-Sep-26
+PK264-2-Bima;Ratu Arasyti Nabila;University College London;Master of Business;Ratu;Arasyti;Nabila ;Aras;aras.nabila@gmail.com;62811130307;instagram.com/pk264.lpdp/;linkedin.com/in/arasyti-403122125;Magister Luar Negeri;Inggris;22-Sep-25;06-Jun-26
+PK264-2-Bima;Smita Tanaya;University of Oxford;MPhil in Development Studies;Smita;;Tanaya ;Smita;smitatanaya@gmail.com;6281291834276;instagram.com/pk264.lpdp/;linkedin.com/in/smita-t-797543136;Magister Luar Negeri;Inggris;10-Jun-25;31-Jul-27
+PK264-2-Bima;Aussie Virnadya Wijayanto;University College London;Master of Science in Project and Enterprise Management;Aussie;Virnadya;Wijayanto ;Aussie/Nadya;aussievirnadya@gmail.com;6282243707248;instagram.com/aussievirnadya;linkedin.com/in/aussievirnadya;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-2-Bima;Azkabellajati Syefera;University College London;Master of Science in Urban Development Planning;Azkabellajati;;Syefera ;Bella;bellaazka12@gmail.com;6281572890025;instagram.com/absyfr;linkedin.com/in/bellasyefera;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-2-Bima;Andi Ameliah Lestari;University of Glasgow & Bandung Institute of Technology;Adam Smith Business School & Master of Business Administration;Andi;Ameliah;Lestari ;Amel;dimelestari@gmail.com;6285399278857;instagram.com/amelstari;linkedin.com/in/andiameliah3091;Magister Luar Negeri;Inggris dan Indonesia;09-Jan-25;15-Sep-27
+PK264-2-Bima;Ridho Azhar Rivaldy;University of Glasgow;Master of Management with Human Resources;Ridho;Azhar;Rivaldy ;Ridho;Ridhoazhar034@gmail.com;6282117552021;instagram.com/ridhoazhar;linkedin.com/in/ridhoazhar;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-26
+PK264-2-Bima;Tesa Lolia Mita;Durham University;MA in Research Methods (Developmental Psychology);Tesa;Lolia;Mita ;Tesa;mitatesalolia@gmail.com;6282236915596;instagram.com/tesa.mita;linkedin.com/in/tesa-lolia-mita;Magister Luar Negeri;Inggris;29-Sep-25;30-Sep-26
+PK264-2-Bima;Atifah Nureza Tarigan;University Of New South Wales;Master of Architecture;Atifah;Nureza;Tarigan ;Eza;atifahnureza@gmail.com;6285159447218;instagram.com/atifahnureza;linkedin.com/in/atifahtarigan;Magister Luar Negeri;Australia;15-Sep-25;15-Sep-27
+PK264-2-Bima;Muhammad Alif Muqorrabin;University of Dundee;MSc in Sustainability and Environmental Modelling;Muhammad;Alif;Muqorrabin ;Alif;alif.muqorrabin@outlook.com;6281231946096;instagram.com/arufu.alip;linkedin.com/in/muhalifmuqorrabin;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-2-Bima;Kadek Laksmi Satyawati;University of Dundee;MSc in Sustainability and Environmental Modelling;Kadek;Laksmi;Satyawati ;Laksmi;kadeksatyawati23@gmail.com;6285953752148;instagram.com/laksmi_satyawati;linkedin.com/in/kadeklaksmisatyawati;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-2-Bima;Devyandra Eka Putri;University College London;Master of Science in Sustainable Resources: Economics, Policy, and Transition;Devyandra;Eka;Putri ;Devy;devyandraputri@gmail.com;6285283250518;instagram.com/devyandra;linkedin.com/in/devyandraputri;Magister Luar Negeri;Inggris;22-Sep-25;22-Sep-25
+PK264-2-Bima;Halimatussa'diyah;Imperial College London;MSc in Advanced Chemical Engineering;Halimatussa'diyah;;;Halima;halimah.dyah92@gmail.com;6281515648906;instagram.com/halimahdyh;linkedin.com/in/halimatussadiyahbn;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-2-Bima;Muhammad Dzaki Dhiya Ulhaq;Indonesian International Islamic University;Doctor of Economics;Muhammad;Dzaki Dhiya;Ulhaq ;Dzaki;dzaki.dhiyaulhaq@gmail.com;6281316820303;instagram.com/zac_du4;linkedin.com/in/muhammad-dzaki-dhiya-ulhaq-6baa3b248;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-2-Bima;Andi Irawan;Indonesian International Islamic University;Doctor of Economics;Andi;;Irawan ;Andi;guladua@gmail.com;628563629196;instagram.com/mas.andiirawan;linkedin.com/in/masandiai;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-2-Bima;Bamba Abdoulaye;Indonesian International Islamic University;Doctor of Education;Bamba;;Abdoulaye ;Bamba;;082249262790;instagram.com/pk264.lpdp/;linkedin.com/;Doktor Dalam Negeri;;;
+PK264-2-Bima;Syahid Abdulloh;Institute of Al-Qur'an Sciences;Doctor of Al-Qur'an and Tafsir Sciences;Syahid;;Abdulloh ;Syahid;syahidabede@gmail.com;6289524573639;instagram.com/syahidabede;linkedin.com/in/syahid-abede-0842b5374;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-2-Bima;Fatwa Azmi Syahriza;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Fatwa;Azmi;Syahriza ;Azmi;fatwazmi@gmail.com;62895333956535;instagram.com/Fatwazmi;linkedin.com/in/fatwazmi;Doktor Dalam Negeri;Indonesia;09-Jun-25;05-Jul-29
+PK264-2-Bima;Nelly Ayu Apriliani;Sebelas Maret University;Doctor of Civil Engineering;Nelly;Ayu;Apriliani ;Nelly;nelly.aaayu@gmail.com;6282158774044;instagram.com/nellyayuaprilee;linkedin.com/in/nelly-ayu-59b370373;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-28
+PK264-2-Bima;Alfian Adie Chandra, ST., M.Eng;Sepuluh Nopember Institute of Technology;Doctor of Marine Engineering;Alfian;Adie Chandra, ST.,;M.Eng ;Alfian;alfiansipiluncen@gmail.com;6281344453231;instagram.com/alfiansipiluncen;linkedin.com/in/alfian-chandra-378334375;Doktor Dalam Negeri;INDONESIA;08-Nov-25;1-Des-2026
+PK264-2-Bima;Anauta Lungiding A R;PTIQ University Jakarta;Doctor of Al-Qur�an and Tafsir Sciences;Anauta;Lungiding A;R ;Angga;anggarisdianto48@gmail.com;6281331916229;instagram.com/anggarisdianto48;linkedin.com/;Doktor Dalam Negeri;INDONESIA;25-Agu-2025;24-Agu-2029
+PK264-2-Bima;Zulfadhilah Ismail;University of Oxford;PhD in Biology;Zulfadhilah;;Ismail ;Zulfa;Dzullfadhilahdz@gmail.com;6287812241660;instagram.com/dzullfadhilah24;linkedin.com/;Doktor Dalam Negeri;Indonesia;09-Jun-25;14-Jul-29
+PK264-2-Bima;Novin Teristiandi;University of Auckland;PhD in Population Health;Novin;;Teristiandi ;Novin;novinteristiandi@gmail.com;6285758444325;instagram.com/pk264.lpdp/;linkedin.com/in/novin-teristiandi-399630307;Doktor Luar Negeri;Inggris;10-Des-2025;10-Des-2029
+PK264-2-Bima;Anastasia Septya Titisari;University of Southampton;PhD in Engineering and the Environment;Anastasia;Septya;Titisari ;Titis;anastasiatitisari@gmail.com;6285739154875;instagram.com/tisbooww;linkedin.com/in/titisari-anastasia-2819888b;Doktor Luar Negeri;Selandia Baru;10-Jan-25;30-Sep-29
+PK264-2-Bima;Audia Azizah Azani;ETH Z�rich;PhD in Construction Heritage and Preservation;Audia;Azizah;Azani ;Audi;iniaudia@gmail.com;62811883239;instagram.com/au.di.a;linkedin.com/in/audia-azizah-azani-a4701585;Doktor Luar Negeri;Inggris;22-Sep-25;22-Sep-29
+PK264-2-Bima;Baihaqi Abdullah;Seoul National University;PhD in International Studies;Baihaqi;;Abdullah ;Haqi;haqi8.abdullah@gmail.com;6282124017125;instagram.com/_baihaqiabd;linkedin.com/in/baihaqi-a-b877761b4;Doktor Luar Negeri;Swiss;15-Sep-25;17-Sep-29
+PK264-2-Bima;Meutia Khaliya;University of Dundee;PhD from Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP);Meutia;;Khaliya ;Haliya;meutiakhaliya@gmail.com;6281317971445;instagram.com/mtkhlya;linkedin.com/in/meutiakhaliya;Doktor Luar Negeri;Korea Selatan;09-Jan-25;15-Jun-29
+PK264-2-Bima;Ana T. Novena Damar Asri;University of Malaya;PhD from Institute of Biological Science;Ana;T. Novena Damar;Asri ;Vena;novenada@yahoo.com;6281218749595;instagram.com/vena.damara;linkedin.com/in/novena-damar-asri-27a664372;Doktor Luar Negeri;Inggris;15-Sep-25;22-Sep-29
+PK264-2-Bima;Andri Hendrizal;University of Manchester;PhD in Development Policy and Management;Andri;;Hendrizal ;Andri;andri_hendrizal@ymail.com;6281365928370;instagram.com/andrihendrizal;linkedin.com/in/andri-hendrizal-5199b6b4;Doktor Luar Negeri;Malaysia;10-Jan-25;10-Jan-28
+PK264-2-Bima;Taufiq Firdaus Al Muzaky;Indonesian International Islamic University;Doctor of Islamic Studies;Taufiq;Firdaus Al;Muzaky ;Zaky;almuzaky@gmail.com;6281573518560;instagram.com/al_muzaky99;linkedin.com/in/taufiq-firdaus-al-muzaky-044226b2;Doktor Luar Negeri;Inggris;29-Sep-25;30-Sep-29
+PK264-3-Arjuna;Agung Iman Setyawan;Gadjah Mada University;Master of Development Economics;Agung;Iman;Setyawan ;Agung;agung.iman@kemenkeu.go.id;628114807868;instagram.com/agungiman.setyawan;linkedin.com/in/agung-iman-setyawan-1670262a;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-3-Arjuna;Mochamad Lazuardi Alwi;Brawijaya University;Master of Communication Science;Mochamad;Lazuardi;Alwi ;Ardi;lazuardialwi@gmail.com;6289675677547;instagram.com/lazuardialwi;linkedin.com/in/lazuardialwi;Magister Dalam Negeri;Indonesia;18-Agu-2025;19-Agu-2027
+PK264-3-Arjuna;Fikri Fajrul Falah;Diponegoro University;Specialist in Internal Medicine;Fikri;Fajrul;Falah ;Fikri;dr.fikriff@gmail.com;6285726455774;instagram.com/drfikri_official;linkedin.com/in/fikrifajrulfalah;Spesialis Dalam Negeri;Indonesia;25-Agu-2025;6-Mei-2029
+PK264-3-Arjuna;Muhamad Widyantoro;Ahmad Dahlan University;Master of Informatics;Muhamad;;Widyantoro ;Widy;muhamadwidyantoro@gmail.com;6285741710084;instagram.com/widyantoro_45;linkedin.com/in/muhamadwidyantoro;Magister Dalam Negeri;Indonesia;09-Jan-25;31-Agu-2027
+PK264-3-Arjuna;Diar Tyas Anjasmara Sanggenafa;Airlangga University;Specialist in Urology;Diar;Tyas Anjasmara;Sanggenafa ;Diar;diarsanggenafa@gmail.com;6281330351700;instagram.com/sanggenafa_diar;linkedin.com/in/diar-sanggenafa-a0b38497;Spesialis Dalam Negeri;Indonesia;08-Nov-25;08-Nov-30
+PK264-3-Arjuna;Pudyo Kriswhardani;Brawijaya University;Specialist in Anesthesiology and Intensive Therapy;Pudyo;;Kriswhardani ;Pudyo;pudyokr@gmail.com;6282147494400;instagram.com/Pudyokriswhardani;linkedin.com/;Spesialis Dalam Negeri;Indonesia;07-Jan-25;07-Jan-29
+PK264-3-Arjuna;Windiarti Anisa Fitri;Diponegoro University;Master of Nutrition Science;Windiarti;Anisa;Fitri ;Windi;windiarty46@gmail.com;6281393267590;instagram.com/windy_an_nisa;linkedin.com/;Magister Dalam Negeri;Indonesia;25-Agu-2025;25-Agu-2027
+PK264-3-Arjuna;Dedy Savradinata;Prof. Dr. dr. Mahar Mardjono National Brain Center Hospital;Specialist in Neurointervention;Dedy;;Savradinata ;Dedy;dd_svrdnt@yahoo.com;81360042485;instagram.com/dedysavradinata;linkedin.com/in/dedy-savradinata-42ba1b1a9;Spesialis Dalam Negeri;Indonesia;07-Jan-25;30-Jun-26
+PK264-3-Arjuna;Khairani Ummah;Harapan Kita National Heart Center;Specialist in Interventional Cardiology;Khairani;;Ummah ;Rani;khairani.ummah@gmail.com;6281342003247;instagram.com/Khairaniummah;linkedin.com/in/khairani-ummah-442285375;Spesialis Dalam Negeri;Indonesia;07-Jan-25;30-Jun-26
+PK264-3-Arjuna;Akhmad Prabowo Kurniawan;Cranfield University;MSc in Safety and Human Factors in Aviation;Akhmad;Prabowo;Kurniawan ;Prabowo;kurniawanprabowobowo@gmail.com;6283819060749;instagram.com/prabowokurniawan_;linkedin.com/in/akhmad-prabowo-kurniawan-164551374;Magister Luar Negeri;Inggris;10-Feb-25;09-Nov-26
+PK264-3-Arjuna;Annan Mikail Ramadhan Atmawidjaja;Institute of Science Tokyo;Master of Industrial Engineering and Economics;Annan;Mikail Ramadhan;Atmawidjaja ;Annan;annan.ramadhan@gmail.com;6287808434903;instagram.com/annan____;linkedin.com/in/annan-mikail-05321b195;Magister Luar Negeri;Jepang;29-Sep-25;28-Sep-27
+PK264-3-Arjuna;Agung Puji Raharjo;University of Manchester;MSc in Robotics;Agung;Puji;Raharjo ;Agung;luguraharjo02@gmail.com;6285735480466;instagram.com/jojo_raharjoo;linkedin.com/in/agung-puji-raharjo-2979601b0;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-3-Arjuna;Dwi Syafina Koestendyah;University Of New South Wales;Master of Laws;Dwi;Syafina;Koestendyah ;Fina;dwi.syafina.k.a@gmail.com;6281311507522;instagram.com/pk264.lpdp/;linkedin.com/in/dwi-syafina-koestendyah-azhariyanto-46999b203;Magister Luar Negeri;Australia;15-Sep-25;15-Sep-26
+PK264-3-Arjuna;Bagas Prasetya Fazri;Lancaster University;Master of Innovation and Entrepreneurship;Bagas;Prasetya;Fazri ;Bagas;bagasprasetyaf@gmail.com;6287899293104;instagram.com/bagasprasetyaf;linkedin.com/in/bagas-prasetya-f;Magister Luar Negeri;Inggris;10-Jan-25;30-Sep-26
+PK264-3-Arjuna;Nadia Ambar Shofiya;University of Birmingham;MSc in Financial Economics;Nadia;Ambar;Shofiya ;Nadia;ambrshf667@gmail.com;6287783049409;instagram.com/ambarshf;linkedin.com/in/ambarshf;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-3-Arjuna;Arief Hasanul Husnan Nasution;University of Dundee;Master of International Energy Law and Policy;Arief;Hasanul Husnan;Nasution ;Arief;ariefhh.nasution@gmail.com;6282299763926;instagram.com/pk264.lpdp/;linkedin.com/in/arief-hasanul-husnan-nasution-0a3023208;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-3-Arjuna;Mayella Sherly Winesia;University of Warwick;MSc in Marketing and Strategy;Mayella;Sherly;Winesia ;May;mayellawinesia@gmail.com;6281390489256;instagram.com/pk264.lpdp/;linkedin.com/in/mayella-sherly-winesia;Magister Luar Negeri;Inggris;27-Sep-25;27-Sep-26
+PK264-3-Arjuna;Bena Milada Susilo;Toulouse III - Paul Sabatier University;Master of International Management of Tourism and Air Transport;Bena;Milada;Susilo ;Bena;benamilada@gmail.com;6285163055856;instagram.com/benamilada;linkedin.com/in/bena-susilo-41635b7a;Magister Luar Negeri;Prancis;29-Agu-2025;29-Agu-2026
+PK264-3-Arjuna;Barra Alfarisi Abadi;University College London;MSc in Telecommunications with Business;Barra;Alfarisi;Abadi ;Barra;barra.alfa@gmail.com;6281293491033;instagram.com/barraalfa;linkedin.com/in/barraalfa;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-25
+PK264-3-Arjuna;Muhammad Akbar S Kurniawan;Universiti Putra Malaysia;Master of Science in Chemistry;Muhammad;Akbar S;Kurniawan ;Akbar;akbarkurniawan243@gmail.com;6282248238665;instagram.com/kurniawan5y;linkedin.com/in/muhammad-kurniawan-418701222;Magister Luar Negeri;Malaysia;14-Okt-2025;10-Apr-27
+PK264-3-Arjuna;Gabriel Andersen Mathias Putra Sirait;University of Manchester;MSc in Climate Change: Science, Society, Solutions;Gabriel;Andersen Mathias Putra;Sirait ;El;gampsirait@gmail.com;6281282551401;instagram.com/andersen_sirait;linkedin.com/in/gabriel-andersen-mathias-putra-sirait;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-3-Arjuna;Juwindy Sandra Sativany Kapitan;University of Sussex;Master of Arts in Development Studies;Juwindy;Sandra Sativany;Kapitan ;Windy;windakapitan@gmail.com;6285239812612;instagram.com/_____itsjuw;linkedin.com/in/juwindy-sandra-44aba2220;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-3-Arjuna;Vanessa Caitlin;University of Manchester;Master of Arts in International Education;Vanessa;;Caitlin ;Nessa;vanessacaitlin@gmail.com;6281931279611;instagram.com/pk264.lpdp/;linkedin.com/in/vanessacaitlin;Magister Luar Negeri;Inggris;22-Sep-25;22-Sep-26
+PK264-3-Arjuna;Samuel Albert Bill Clinton Hasurungan Sitompul;EDHEC Business School;MSc in Entrepreneurship & Innovation;Samuel;Albert Bill Clinton Hasurungan;Sitompul ;Samuel;samuelalbert540@gmail.com;6282167748292;instagram.com/pk264.lpdp/;linkedin.com/in/samuel-albert-sitompul-3185b5157;Magister Luar Negeri;Prancis;30-Agu-2025;30-Des-2026
+PK264-3-Arjuna;Nuzulina Fitri;RWTH Aachen University;MSc in Management and Engineering in Technology, Innovation, Marketing & Entrepreneurship;Nuzulina;;Fitri ;Nuzulina;nuzulinafitri@gmail.com;6281998231020;instagram.com/nuzulinaf;linkedin.com/in/nuzulinafitri;Magister Luar Negeri;JERMAN;10-Jan-25;31-Mar-27
+PK264-3-Arjuna;Avila Amorita;KU Leuven;Master of Science in Digital Media and Society;Avila;;Amorita ;Vila;avilaamorita@gmail.com;6287804047759;instagram.com/avilamoritaa;linkedin.com/in/avila-amorita;Magister Luar Negeri;Belgia;17-Sep-25;15-Sep-26
+PK264-3-Arjuna;I Made Wikandana;University College London;MSc in Disability, Design and Innovation;I;Made;Wikandana ;Wikan;madewikandana97@gmail.com;6281238327373;instagram.com/pk264.lpdp/;linkedin.com/in/madewikandana;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-3-Arjuna;Abraham Ben Gurion;University of Leeds;MSc in Criminal Justice and Criminology;Abraham;Ben;Gurion ;Ben;gurionbennn@gmail.com;6281317372022;instagram.com/abragurr;linkedin.com/in/abraham-ben-9297342b9;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-3-Arjuna;Giovanna Renee Tan;University College London;MSc in Global Health and Development;Giovanna;Renee;Tan ;Gio;giovannarenee45@gmail.com;6281232718379;instagram.com/giovannart_ne;linkedin.com/in/giovannart;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-3-Arjuna;Ivana Markus;London School of Economics;MSc in Economic Policy for International Development;Ivana;;Markus ;Ivana;elizabethivana12@gmail.com;6285959712369;instagram.com/pk264.lpdp/;linkedin.com/in/ivana-markus;Magister Luar Negeri;Inggris;29-Sep-25;27-Sep-26
+PK264-3-Arjuna;Amrina;Lancaster University;MSc in Innovation and Entrepreneurship;Amrina;;;Amrina;aamumbrela5@gmail.com;6281933492983;instagram.com/aamumbrela;linkedin.com/;Magister Luar Negeri;Inggris;10-Jan-25;30-Sep-26
+PK264-3-Arjuna;Kristo Pandawa Yudha Simanjuntak;University of Birmingham;Master of Arts in Conflict, Security and Development;Kristo;Pandawa Yudha;Simanjuntak ;Kristo;kristosimanjuntak2022@gmail.com;6285966210284;instagram.com/Kristopandawayudha;linkedin.com/in/kristo-simanjuntak-366322374;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-3-Arjuna;Bella Mudiniyanti;Imperial College London;MSc in Responsible Mining and Metals Finance;Bella;;Mudiniyanti ;Bella;bellamudiniyanti@gmail.com;6281219989653;instagram.com/bellaffu;linkedin.com/in/bellamudiniyanti;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-3-Arjuna;Intan Octavia;University of Manchester;MSc in Business Psychology;Intan;;Octavia ;Intan;intan.octavia@outlook.com;6281284423757;instagram.com/intnoctv;linkedin.com/in/intanoctavia;Magister Luar Negeri;Inggris;29-Sep-05;29-Sep-26
+PK264-3-Arjuna;Nindita;King's College London;MSc in Women and Children's Health;Nindita;;;Nindi;ninditanindita@gmail.com;6281511154597;instagram.com/ninditanindita;linkedin.com/in/nindita-nindita-249a2177;Magister Luar Negeri;Inggris;29-Sep-25;31-Agu-2026
+PK264-3-Arjuna;Jacqueline Abigael Tutuhatunewa;Chung-Ang University;Global MBA;Jacqueline;Abigael;Tutuhatunewa ;Jacqueline;jacquelinetutuhatunewa@gmail.com;6281344633803;instagram.com/jacqueline.abgl;linkedin.com/in/Jacqueline-abigael;Magister Luar Negeri;Korea Selatan;09-Jan-25;26-Agu-2027
+PK264-3-Arjuna;Yusuf Caesaro Audianto;University of Glasgow;MSc in Criminology and Criminal Justice;Yusuf;Caesaro;Audianto ;Audi;yusufcaesaroaudianto@gmail.com;6281380033939;instagram.com/yusufcaesaro;linkedin.com/in/yusuf-caesaro-969a72359;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-26
+PK264-3-Arjuna;Putu Adika Reswara;Imperial College London;MSc in Sustainable Energy Futures;Putu;Adika;Reswara ;Adika;reswaraputu@gmail.com;6281353564414;instagram.com/adikareswara;linkedin.com/in/putu-adika-reswara-b41b661a5;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-3-Arjuna;Abid Nurhuda;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Abid;;Nurhuda ;Abid;abidnurhuda123@gmail.com;6289617352255;instagram.com/abidnh;linkedin.com/in/abid-nurhuda-512ab8193;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-29
+PK264-3-Arjuna;Soleh Hasan Wahid;Indonesian International Islamic University;Doctor of Islamic Studies;Soleh;Hasan;Wahid ;Soleh;wahid@iainponorogo.ac.id;6282140505344;instagram.com/pk264.lpdp/;linkedin.com/in/soleh-hasan-a89667102;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-3-Arjuna;Ebrahim Omar Obaid Basalma;Indonesian International Islamic University (UIII);Doctor of Education;Ebrahim;Omar Obaid;Basalma ;Ebrahim;;;instagram.com/pk264.lpdp/;linkedin.com/;Doktor Dalam Negeri;;;
+PK264-3-Arjuna;Rahayu;Brawijaya University;Doctor of Mechanical Engineering;Rahayu;;;Ayu;rahayujrizky@gmail.com;6285712102882;instagram.com/rahasayu;linkedin.com/in/rahayurizky;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-3-Arjuna;Agustinus Deka Betan;Diponegoro University;Doctor of Law;Agustinus;Deka;Betan ;Agus;agustinusbetan@gmail.com;6281236249077;instagram.com/pk264.lpdp/;linkedin.com/;Doktor Dalam Negeri;Indonesia;18-Agu-2025;20-Des-2025
+PK264-3-Arjuna;Yosefina Daku;Monash University Indonesia;Doctor of Philosophy in Medicine, Nursing, and Health Sciences;Yosefina;;Daku ;Yofin;yofind19@gmail.com;6285258266889;instagram.com/Yofin_D;linkedin.com/in/yofin-d-672578374;Doktor Dalam Negeri;Indonesia;25-Agu-2025;25-Jul-28
+PK264-3-Arjuna;Andi Windah;Indonesian International Islamic University;PhD in Islamic Studies;Andi;;Windah ;Windah;andiwindah@gmail.com;6281274384168;instagram.com/andiwindah;linkedin.com/in/andi-windah-73621b159;Doktor Dalam Negeri;Indonesia;15-Sep-25;14-Sep-29
+PK264-3-Arjuna;Ayesha Sadaf;University Of New South Wales;PhD in Computer Science and Engineering;Ayesha;;Sadaf ;Ayesha;ayeshasadaf720@gmail.com;6281249995011;instagram.com/ayeshasadaf;linkedin.com/;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2028
+PK264-3-Arjuna;Ahmad Naghim Fauzaini Prawirosoenoto;Imperial College London;PhD in Civil and Environmental Engineering;Ahmad;Naghim Fauzaini;Prawirosoenoto ;Naghim;ahmadnaghim@gmail.com;6285643500445;instagram.com/ahmadnaghim;linkedin.com/in/ahmad-naghim-fauzaini-prawirosoenoto-4a2736147;Doktor Luar Negeri;Australia;15-Sep-25;09-Sep-29
+PK264-3-Arjuna;Sekar Mentari;University of Cambridge;PhD in Public Health and Primary Care;Sekar;;Mentari ;Sekar;sekarmentari22@gmail.com;628561270592;instagram.com/sekarmentari22;linkedin.com/in/sekar-mentari-189319106;Doktor Luar Negeri;Inggris;27-Sep-25;27-Sep-29
+PK264-3-Arjuna;Aufia Espressivo;University of Sydney;Doctor of Philosophy (Science);Aufia;;Espressivo ;Ivo;aufiaesp@gmail.com;6281373583889;instagram.com/pk264.lpdp/;linkedin.com/in/aufia;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-29
+PK264-3-Arjuna;Elisabeth Brielin Sinu;King's College London;PhD in Dental and Health Sciences Research;Elisabeth;Brielin;Sinu ;Erlin;elisabeth.sinu@gmail.com;6282144139098;instagram.com/brielinsinu;linkedin.com/in/elisabeth-brielin-sinu;Doktor Luar Negeri;Australia;10-Jan-25;30-Sep-29
+PK264-3-Arjuna;Agatha Ravi Vidiasratri;University Of New South Wales;Doctor of Philosophy in Chemical Engineering;Agatha;Ravi;Vidiasratri ;Agatha;agatha.vidiasratri@gmail.com;628111615195;instagram.com/agatha.rv;linkedin.com/in/agathavidiasratri;Doktor Luar Negeri;Inggris;10-Jan-25;10-Jan-29
+PK264-3-Arjuna;Silvya Yusri;University of Groningen;PhD from Graduate School for the Humanities;Silvya;;Yusri ;Silvya;silvyayusri1@gmail.com;6287780172020;instagram.com/silvyay;linkedin.com/in/silvya-yusri-0b269979;Doktor Luar Negeri;Australia;16-Feb-26;31-Des-2029
+PK264-3-Arjuna;Angela Upitya Paramitasari;University of Leeds;PhD in Accounting and Finance;Angela;Upitya;Paramitasari ;Upitya;angelaupito@gmail.com;628197840398;instagram.com/angelaupito;linkedin.com/in/angela-upitya-971083101;Doktor Luar Negeri;Belanda;11-Jan-25;31-Okt-2029
+PK264-3-Arjuna;Aulia Herdiani;Indonesian International Islamic University;Phd in Economics;Aulia;;Herdiani ;Aulia;aulia165.ah@gmail.com;628112814319;instagram.com/aulia_herdiani;linkedin.com/in/aulia-herdiani-b21382170;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-29
+PK264-4-Srikandi;Yonanda Alvino;University of Sheffield;Master of Public Health;Yonanda;;Alvino ;Alvino;yonanda.alvino96@gmail.com;628119211889;instagram.com/yonandalvino;linkedin.com/in/yonanda-alvino-72388a328;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-4-Srikandi;Manova Scotia Hutahaean;King's College London;Master of Laws (LLM);Manova;Scotia;Hutahaean ;Scotia;manovahutahaean@gmail.com;628119955321;instagram.com/manovascotia;linkedin.com/in/scotia-hutahaean-710024252;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-4-Srikandi;Koffi Haryasena Marhayudi;University Of New South Wales;Master of Commerce;Koffi;Haryasena;Marhayudi ;Joi;joimarhayudi@gmail.com;6281952640091;instagram.com/marhayudijoi;linkedin.com/in/koffi-haryasena-marhayudi-350574272;Magister Luar Negeri;Australia;15-Sep-25;15-Sep-27
+PK264-4-Srikandi;Moh. Arief Sah;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Moh.;Arief;Sah ;Arif;aryfsyah1991@gmail.com;6282211026768;instagram.com/aryf_syah;linkedin.com/in/arif-sah-3957a8373;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-28
+PK264-4-Srikandi;Bobby Riana Dwi Atmojo;Diponegoro University;Master of Information Systems;Bobby;Riana Dwi;Atmojo ;Bobby;bobbyatmojo@gmail.com;6282238405106;instagram.com/bobby_rdax;linkedin.com/in/bobby-atmojo-113504374;Magister Dalam Negeri;Indonesia;25-Agu-2025;30-Jun-27
+PK264-4-Srikandi;Andre Tamaela;Bandung Institute of Technology;Master of Highway Systems and Engineering;Andre;;Tamaela ;Arta;tamaa27a@gmail.com;6282198895992;instagram.com/andre.tamaela;linkedin.com/in/andre-tamaela-287431374;Magister Dalam Negeri;Indonesia;09-Jan-25;30-Sep-27
+PK264-4-Srikandi;Martelda Natbais;Brawijaya University;Master of Physics;Martelda;;Natbais ;Telda;martheldanatbais@gmail.com;6282325985289;instagram.com/Thelda_Natbais;linkedin.com/;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-4-Srikandi;Anak Agung Yuniartha;University of Indonesia;Master of Industrial Engineering;Anak;Agung;Yuniartha ;Artha;yuniarta199@gmail.com;6285736145509;instagram.com/Aa_yuniartha;linkedin.com/in/anak-agung-yuniarthaa-a94275375;Magister Dalam Negeri;Indonesia;25-Agu-2025;27-Agu-2025
+PK264-4-Srikandi;Rizkia Lana Maureen;Gadjah Mada University;Master of Development Economics;Rizkia;Lana;Maureen ;Maureen;maureenmj15@gmail.com;6281281824033;instagram.com/maureenisgood;linkedin.com/in/rizkia-lana-maureen-587483374;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-4-Srikandi;Munawar Wahid;Gadjah Mada University;Master of Development Economics;Munawar;;Wahid ;Mun;munawarwahid1@gmail.com;6281356839988;instagram.com/pk264.lpdp/;linkedin.com/;Magister Dalam Negeri;INDONESIA;18-Agu-2025;31-Jul-27
+PK264-4-Srikandi;Gilang Reksa Pamungkas;University of Leeds;MSc (Eng) in Transport Infrastructure: Design and Construction;Gilang;Reksa;Pamungkas ;Gilang;gilangreksap@gmail.com;6281250004098;instagram.com/gilangreksaa;linkedin.com/in/gilang-reksa-3406b730b;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-4-Srikandi;Fiona Natasha;University College London;MSc in Biochemical Engineering;Fiona;;Natasha ;Fiona;fionatasha30@gmail.com;6285799585188;instagram.com/pk264.lpdp/;linkedin.com/in/fiona-natasha;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-25
+PK264-4-Srikandi;Annisa Pramita Nur Puspitasari;University of Warwick;MSc in Data Analytics;Annisa;Pramita Nur;Puspitasari ;Annisa;annisa.pramita.n@gmail.com;6281578982317;instagram.com/pk264.lpdp/;linkedin.com/in/annisapramita;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-4-Srikandi;Nova Dahani Putri;University of Chicago;Master of Laws;Nova;Dahani;Putri ;Nova;ndahani1@gmail.com;6282144195318;instagram.com/novadhn;linkedin.com/in/novadahani;Magister Luar Negeri;Amerika Serikat;29-Sep-25;23-Mei-2026
+PK264-4-Srikandi;Anna Maria Agra Nathanniela Satyaningati;Tohoku University;Master from International Graduate Program of Language Sciences;Anna;Maria Agra Nathanniela;Satyaningati ;Agra;agranathanniela@gmail.com;628989264431;instagram.com/nathannielagra;linkedin.com/in/agranathanniela;Magister Luar Negeri;Jepang;10-Jan-25;30-Sep-27
+PK264-4-Srikandi;Akhmad Syihan Santoso;KEDGE Business School;MSc in International Trade and Maritime Logistics;Akhmad;Syihan;Santoso ;Syihan;akhmad.syihan@gmail.com;6287875679952;instagram.com/syihano;linkedin.com/in/akhmad-syihan-santoso;Magister Luar Negeri;Prancis;16-Sep-25;31-Des-2026
+PK264-4-Srikandi;Venissha Claudia Pasaribu;University College London;MSc in Technology Management;Venissha;Claudia;Pasaribu ;Chacha;venisshaclaudia@gmail.com;6282167780664;instagram.com/vvenissha;linkedin.com/in/venisshacpasaribu;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-25
+PK264-4-Srikandi;Sisilia Risa Maria Kayame;University of Sussex;MSc in Sustainable Finance and Accounting;Sisilia;Risa Maria;Kayame ;Risa;risasisilia187@gmail.com;6281354967008;instagram.com/xyzilst;linkedin.com/in/sisiliarisa;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-27
+PK264-4-Srikandi;Anindya Yustika;University of Dundee;LLM in International Minerals and Energy Law & Policy;Anindya;;Yustika ;Nindy;nindyustika@gmail.com;6282234264686;instagram.com/nindyustika;linkedin.com/in/anindyayustika;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-4-Srikandi;Ahmad Januar Akbar Mubarok;Institute of Science Tokyo;Master of Global Engineering for Development, Environment and Society;Ahmad;Januar Akbar;Mubarok ;Januar;januarmubarok@gmail.com;6281999800868;instagram.com/diajanu;linkedin.com/in/januarmubarok;Magister Luar Negeri;Jepang;29-Sep-25;28-Sep-27
+PK264-4-Srikandi;Salsabila Paradisa;University of Bonn;Master of Geodetic Engineering;Salsabila;;Paradisa ;Salsa;salsabila.paradisa@gmail.com;6289687696426;instagram.com/sparadisa;linkedin.com/in/salsabilaparadisa;Magister Luar Negeri;Jerman;10-Jan-25;30-Sep-27
+PK264-4-Srikandi;Muhammad Ghozy Ramadhansyah;Cranfield University;MSc in Safety and Human Factors in Aviation;Muhammad;Ghozy;Ramadhansyah ;Ghozy;ghozyxhunter@gmail.com;6282138571413;instagram.com/ghozyr;linkedin.com/in/ghozy-ramadhansyah-804620117;Magister Luar Negeri;Inggris;10-Feb-25;09-Nov-26
+PK264-4-Srikandi;Gizti Diah Huzaifah;Paul Sabatier University (Toulouse 3);Master of International Management of Air Transport and Tourism;Gizti;Diah;Huzaifah ;Gizti;giztihuzaifah@gmail.com;6281229911869;instagram.com/pk264.lpdp/;linkedin.com/in/gizti-diah-huzaifah-a556925a;Magister Luar Negeri;Prancis;29-Agu-2025;28-Agu-2026
+PK264-4-Srikandi;Khaira Abdillah;University of T�bingen;MSc in Quantitative Data Science Methods;Khaira;;Abdillah ;Khaira;abdillah.khaira1@gmail.com;6285216678294;instagram.com/kabdillah.97;linkedin.com/in/khaira-abdillah;Magister Luar Negeri;Jerman;10-Jan-25;30-Sep-25
+PK264-4-Srikandi;Stanislaus Christo Petra Nugraha;University of Dundee;MSc in Sustainability and Environmental Modelling;Stanislaus;Christo Petra;Nugraha ;Stanis;stanislauspetra@gmail.com;6281568493331;instagram.com/stanislaucs;linkedin.com/in/stanislauschristo;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-4-Srikandi;Khalid Nur Nugraha;Politecnico di Milano;Master of Science in Mechanical Engineering;Khalid;Nur;Nugraha ;Khalid;nugrahakhalid@gmail.com;628111488880;instagram.com/khalid_nugraha;linkedin.com/in/khalidnugraha;Magister Luar Negeri;Italia;15-Sep-25;23-Jul-27
+PK264-4-Srikandi;Timothy Oliver Octavianus;Imperial College London;MSc of Transport;Timothy;Oliver;Octavianus ;Timmy;timothyoliver96@gmail.com;6281287874120;instagram.com/timmysiahaan;linkedin.com/in/timothy-oliver-octavianus;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-4-Srikandi;Muhammad 'Aqlan Shofwan;University of Leeds;MSc in International Health;Muhammad;Aqlan;Shofwan ;Aqlan;aqlanshofwan@gmail.com;6281316632966;instagram.com/aqlans_;linkedin.com/in/muhammadaqlan;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-25
+PK264-4-Srikandi;Theodore Schaeffer;University of Cambridge;Master of Finance;Theodore;;Schaeffer ;Theo;th.sch.cr@gmail.com;6281380298519;instagram.com/pk264.lpdp/;linkedin.com/in/theodore-s-17a51210a;Magister Luar Negeri;Inggris;15-Sep-25;31-Agu-2026
+PK264-4-Srikandi;Olga Putri Atsira;King's College London;MSc in Global Mental Health;Olga;Putri;Atsira ;Olga;olgaputriatsira@gmail.com;6281216639642;instagram.com/putriatsira;linkedin.com/in/olgaputriatsira;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-4-Srikandi;Ivan James Aritonang;University College London;MSc in Civil Engineering (with Infrastructure Planning);Ivan;James;Aritonang ;James;ivanjames0698@gmail.com;6285362447479;instagram.com/vanjamess;linkedin.com/in/vanjamess;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-25
+PK264-4-Srikandi;Rizka Fitria Utami;Imperial College London;MSc in Advanced Chemical Engineering;Rizka;Fitria;Utami ;Rizka;rizkafitriautamii@gmail.com;6289671088021;instagram.com/rizkafitriautamii;linkedin.com/in/rizka-fitria-u-27ba0413b;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-4-Srikandi;Gusti Ayu Dyah Adnya Pranitha;University of Freiburg;Master of Science in Sustainable Systems Engineering;Gusti;Ayu Dyah Adnya;Pranitha ;Dyah;dyahadnya@gmail.com;6285238450661;instagram.com/dyahadnya;linkedin.com/in/gustiayudyahadnyapranitha;Magister Luar Negeri;Jerman;13-Okt-2025;25-Jul-27
+PK264-4-Srikandi;Sheila Annisa Nur El Fajri;Grenoble Ecole de Management;MSc in Management of Sports & Outdoor Markets;Sheila;Annisa Nur El;Fajri ;Sheila;sheilannisanef@gmail.com;6281297753747;instagram.com/sheila.elfajri;linkedin.com/in/sheila-el-fajri-a3ab99126;Magister Luar Negeri;Prancis;31-Agu-2025;30-Agu-2027
+PK264-4-Srikandi;Ferralda Talitha Amir;University of Dundee;MSc in International Energy Management;Ferralda;Talitha;Amir ;Fe;ferralda.amir@gmail.com;6281319467780;instagram.com/ferraldaamir;linkedin.com/in/ferralda-talitha-amir;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-4-Srikandi;Dina Madelin Woisiri;C�sar Ritz Colleges Switzerland;Master of Science in Leadership;Dina;Madelin;Woisiri ;Dj;madelindj18@gmail.com;6282329412726;instagram.com/flashofficial_dije;linkedin.com/;Magister Luar Negeri;Swiss;10-Jun-25;19-Des-2026
+PK264-4-Srikandi;Junaid Daffa Izzudin;University of Leeds;MSc in Climate Futures: Science, Society and Politics;Junaid;Daffa;Izzudin ;Jun;i.junaiddaffa@gmail.com;6282127322101;instagram.com/pk264.lpdp/;linkedin.com/in/junaiddaffa;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-4-Srikandi;Suripto;University of Indonesia;Doctor of Medical Science;Suripto;;;Suripto;suriptozh@gmail.com;6282169966586;instagram.com/pk264.lpdp/;linkedin.com/in/suriptozh;Doktor Dalam Negeri;Indonesia;8-Mei-2025;31-Jul-28
+PK264-4-Srikandi;Efriani;Padjadjaran University;Doctor of Sociology;Efriani;;;Efri;efrianibanuaka@yahoo.co.id;6285822096292;instagram.com/efrianibanuaka;linkedin.com/in/efriani-efriani-b67919374;Doktor Dalam Negeri;Indonesia;15-Agu-2025;14-Agu-2028
+PK264-4-Srikandi;Rheyza Virgiawan;Indonesian International Islamic University;Doctor of Islamic Studies;Rheyza;;Virgiawan ;Rheyza;rheyza@uii.ac.id;6281372794949;instagram.com/pk264.lpdp/;linkedin.com/in/rheyza-virgiawan-4b96b9171;Doktor Dalam Negeri;Indonesia;22-Sep-25;8-Agu-2029
+PK264-4-Srikandi;Fitriyah Nurfadilah;Indonesian International Islamic University;Doctor of Political Science;Fitriyah;;Nurfadilah ;Fitriyah/Pipit;fitria.fadhilah@gmail.com;628561585418;instagram.com/fitriafadhilah_;linkedin.com/in/fitria-fadhilah-2b5b7a301;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-4-Srikandi;Yusuf Rahim;Institute of Al-Qur'an Sciences;Doctor of Al-Qur'an and Tafsir Sciences;Yusuf;;Rahim ;Yusuf;cutecoker2@gmail.com;6282348442009;instagram.com/Cutecoker;linkedin.com/;Doktor Dalam Negeri;Indonesia;09-Jun-25;9-Mei-2028
+PK264-4-Srikandi;Andy Yumina Ninu;Brawijaya University;Doctor of Animal Science;Andy;Yumina;Ninu ;Andy;ninuandy@gmail.com;6282247385978;instagram.com/pk264.lpdp/;linkedin.com/;Doktor Dalam Negeri;Indonesia;08-Jan-25;07-Jan-25
+PK264-4-Srikandi;Sayed Israr Samim;Indonesian International Islamic University;PhD in Political Science;Sayed;Israr;Samim ;-;israrsamim2023@gmail.com;6285285439046;instagram.com/pk264.lpdp/;linkedin.com/in/sayed-israr-samim-86819a375;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-4-Srikandi;Hayatun Nufus;Indonesian International Islamic University;Doctor of Political Science;Hayatun;;Nufus ;Nufus;nufuscloud1709@yahoo.com;628568812149;instagram.com/nufus_hamami1709;linkedin.com/in/hayatun-nufus-8a39a249;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-4-Srikandi;Randhy Nugroho;Ludwig Maximilian University of Munich;PhD from Professorship of Innovation, Entrepreneurship & Sustainability;Randhy;;Nugroho ;Randhy;randhy.nugroho@gmail.com;6281385891565;instagram.com/pk264.lpdp/;linkedin.com/in/randhy-nugroho;Doktor Luar Negeri;Jerman;13-Okt-2025;30-Sep-29
+PK264-4-Srikandi;Ayu Dyah Pangestu;Nagoya University;PhD from Department of Natural Science (Physics);Ayu;Dyah;Pangestu ;Ayu;ayudyahpangestu77@gmail.com;6285710767963;instagram.com/pk264.lpdp/;linkedin.com/in/ayu-dyah-pangestu;Doktor Luar Negeri;Jepang;10-Jan-25;30-Sep-28
+PK264-4-Srikandi;Sesar Prabu Dwi Sriyanto;Tohoku University;PhD in Civil and Environmental Engineering;Sesar;Prabu Dwi;Sriyanto ;Sesar;sesardwis@gmail.com;6285745420042;instagram.com/sesar_dwi;linkedin.com/in/sesar-prabu-dwi-sriyanto-89902a122;Doktor Luar Negeri;Jepang;10-Jan-25;30-Sep-28
+PK264-4-Srikandi;Lidya Permata Sari;Kyushu University;PhD from Department of Design;Lidya;Permata;Sari ;Lidya;lidyaprmata@gmail.com;6281266436366;instagram.com/pk264.lpdp/;linkedin.com/in/lidyapermatasari;Doktor Luar Negeri;Jepang;10-Jan-25;30-Sep-28
+PK264-4-Srikandi;Siti Hilya Nabila;University of Dundee;PhD from Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP);Siti;Hilya;Nabila ;Hilya;sitihilyanabila@gmail.com;6281295752969;instagram.com/hilyanabila;linkedin.com/in/sitihilyanabila;Doktor Luar Negeri;Inggris;15-Sep-25;22-Sep-29
+PK264-4-Srikandi;Anggar Lugastama;University College London;MPhil/PhD from Development Planning Unit;Anggar;;Lugastama ;Anggar;anggarlugastama@gmail.com;62895330027420;instagram.com/pk264.lpdp/;linkedin.com/in/anggarlugastama;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-29
+PK264-4-Srikandi;Nihayatul Karimah;University of Leeds;PhD in Medicine and Health;Nihayatul;;Karimah ;Niha;nihayaelka@gmail.com;6285885655266;instagram.com/pk264.lpdp/;linkedin.com/in/nihayatul-karimah-3b693722;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-28
+PK264-4-Srikandi;Dwi Bayu Saputra;University of Queensland;Doctor of Philosophy;Dwi;Bayu;Saputra ;Bayu;dwibayusaputra@unib.ac.id;6282175525255;instagram.com/dwibayusaputra;linkedin.com/in/dwi-bayu-saputra-997486374;Doktor Luar Negeri;Australia;10-Jan-25;30-Sep-29
+PK264-5-Drupadi;Ardha Yosef Retmana;Technical University of Munich;Master of Sustainable Resources Management;Ardha;Yosef;Retmana ;Ardha;ardha@maritim.go.id;6282136585608;instagram.com/ardhayosef;linkedin.com/in/ardha-yosef-retmana-96b284212;Magister Luar Negeri;Jerman;13-Okt-2025;30-Sep-27
+PK264-5-Drupadi;Effran Rajagukguk;University of Dundee;MSc in Sustainability and Renewables;Effran;;Rajagukguk ;Ef;effran.rajagukguk91@gmail.com;6282139795205;instagram.com/effranrajagukguk;linkedin.com/in/effran-rajagukguk;Magister Luar Negeri;Inggris;15-Agu-2025;18-Agu-2026
+PK264-5-Drupadi;Musa Bah;Indonesian International Islamic University;Doctor of Political Science;Musa;;Bah ;Aba Muhammad;musa.bah@uiii.ac.id;6281359942870;instagram.com/pk264.lpdp/;linkedin.com/in/musa-bah-028677151;Doktor Dalam Negeri;Indonesia;22-Sep-25;28-Agu-2029
+PK264-5-Drupadi;Arga Miftah Nur Fadlillah;Brawijaya University;Master of Sociology;Arga;Miftah Nur;Fadlillah ;Arga;argamiftah7@gmail.com;628557591643;instagram.com/Arga_miftah;linkedin.com/in/arga-miftah-nur-fadlillah-0362aa258;Magister Dalam Negeri;Indonesia;08-Nov-25;31-Jul-27
+PK264-5-Drupadi;Gladys Juane Patulak;Diponegoro University;Specialist in Ophthalmology;Gladys;Juane;Patulak ;Gladys;gladyspatulak25@gmail.com;6282143709325;instagram.com/gladysjuaneee;linkedin.com/in/gladys-juane-b357322b2;Spesialis Dalam Negeri;Indonesia;07-Jul-25;07-Jul-29
+PK264-5-Drupadi;Putri Juliarti;Diponegoro University;Master of Information Systems;Putri;;Juliarti ;Putri;putrijuliarti67@gmail.com;6282239366695;instagram.com/pijee____;linkedin.com/in/putri-juliarti-5ba640374;Magister Dalam Negeri;Indonesia;25-Agu-2025;30-Jun-27
+PK264-5-Drupadi;Mikhael Riandi Rakinaung;Gadjah Mada University;Master of Development Economics;Mikhael;Riandi;Rakinaung ;Maikel;mikhaelrakinaung20@gmail.com;6285220898742;instagram.com/ekelrkg;;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-5-Drupadi;Nonik Septiani;Brawijaya University;Master of Physics;Nonik;;Septiani ;Nonik;nonikseptiani2609@gmail.com;6281933158449;instagram.com/noniksepti;linkedin.com/in/nonik-septi-236221264;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-5-Drupadi;M. Zulfani Hidayat;PTIQ University Jakarta;Master of Al-Qur'an and Tafsir Sciences;M.;Zulfani;Hidayat ;Zulfan;mzulfani.hidayat@gmail.com;6281997962925;instagram.com/m.zulfani_h;linkedin.com/in/m-zulfani-hidayat-096196233;Magister Dalam Negeri;Indonesia;09-Jun-25;09-Jun-27
+PK264-5-Drupadi;Fara Aliftisha Maharani;University of Dundee;LLM in International Minerals and Energy Law and Policy;Fara;Aliftisha;Maharani ;Tisha;faraliftisha@gmail.com;6285156902101;instagram.com/faratisha;linkedin.com/in/fara-aliftisha-maharani-048378135;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-5-Drupadi;Muhammad Ali Akbar Sabturil Sesunan;University of Tokyo;Master of Public Policy;Muhammad;Ali Akbar Sabturil;Sesunan ;Ali;ali.akbar3232@gmail.com;6285738289931;instagram.com/pk264.lpdp/;linkedin.com/in/alisesunan;Magister Luar Negeri;Jepang;10-Feb-25;10-Feb-27
+PK264-5-Drupadi;Ihsan Fachry Arba;Imperial College London;MSc in Cardiovascular and Respiratory Healthcare;Ihsan;Fachry;Arba ;Fachry;ihsanfachry@gmail.com;6282233588248;instagram.com/ihsanfachrya;linkedin.com/in/ihsanfachry;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-25
+PK264-5-Drupadi;Dean Verrell Matalino Ariefin;University College London;MSc in Internet Engineering;Dean;Verrell Matalino;Ariefin ;Verrell;deanverrell@gmail.com;6287871498655;instagram.com/verrell_bd;linkedin.com/in/dean-verrell;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-5-Drupadi;Nandita Tiara Syarahfina;University of Leeds;MA in Corporate Communication, Marketing, and Public Relations;Nandita;Tiara;Syarahfina ;Afi;nanditaafi18@gmail.com;6287871878122;instagram.com/nanditaafi;linkedin.com/in/nanditasyarahfina;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-26
+PK264-5-Drupadi;Desi Sari Ayuni;University of Sussex;MSc in Development Economics;Desi;Sari;Ayuni ;Desi;ayuniisari5678@gmail.com;6285362070271;instagram.com/pk264.lpdp/;linkedin.com/in/desi-sari-ayuni-766888323;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-5-Drupadi;Vinita Pratijivananti;University of Glasgow;MSc in Political Communication;Vinita;;Pratijivananti ;Vinita;vinitapratijivananti@gmail.com;6281284742337;instagram.com/Vinitaap;linkedin.com/in/vinita-p-146b61156;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-26
+PK264-5-Drupadi;Dewa Ayu Sekar Saraswati;University of Glasgow;LLM in Human Rights Law;Dewa;Ayu Sekar;Saraswati ;Sekar;sekar.saraswati@gmail.com;6287884452077;instagram.com/sekarrsaras;linkedin.com/in/sekar-saraswati-6632ba171;Magister Luar Negeri;Inggris;15-Sep-25;15-Sep-26
+PK264-5-Drupadi;Ni Komang Ulun Wangi Sargita;University Of New South Wales;Master of Marine Science and Management;Ni;Komang Ulun Wangi;Sargita ;Ulun;nikomangulun@gmail.com;6285942882835;instagram.com/Ulunsargita;linkedin.com/in/nikomangulunwangisargita;Magister Luar Negeri;Australia;15-Sep-25;31-Mei-2027
+PK264-5-Drupadi;Arinal Falaah Muhammad;University Of New South Wales;Master of Engineering Science (Robotics);Arinal;Falaah;Muhammad ;Arinal;arinalfm02@gmail.com;6281282217913;instagram.com/arinal_fm;linkedin.com/;Magister Luar Negeri;Australia;15-Sep-25;15-Sep-27
+PK264-5-Drupadi;Puteri Sunitha Aprisani Corputty;Centrale Lyon;International Master in Atmosphere, Ocean and Climate Science;Puteri;Sunitha Aprisani;Corputty ;Puput;putericorputty@gmail.com;6281276304257;instagram.com/putericorputty;linkedin.com/in/putericorputty;Magister Luar Negeri;Prancis;09-Jan-25;30-Sep-27
+PK264-5-Drupadi;Khanza Amira Bumi Lubis;University College London;MSc in Spatio-temporal Analytics and Big Data Mining;Khanza;Amira Bumi;Lubis ;Khanza;khanzalubis@gmail.com;6285220116969;instagram.com/pk264.lpdp/;linkedin.com/in/khanzalubis;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-5-Drupadi;Salman Karim Alfarizi;Panth�on-Assas University;LLM in International Business Law;Salman;Karim;Alfarizi ;Salman;salmankarim241602@gmail.com;6289612788869;instagram.com/alfarizi.ska;linkedin.com/in/salman-karim-alfarizi-74b321284;Magister Luar Negeri;Prancis;10-Jan-25;15-Jun-26
+PK264-5-Drupadi;Maghfira Ramadhanty;King's College London;MSc in Digital Economy;Maghfira;;Ramadhanty ;Afie;maghfiraramadhanty@gmail.com;6282110299730;instagram.com/pk264.lpdp/;linkedin.com/in/maghfira-ramadhanty;Magister Luar Negeri;Inggris;29-Sep-25;30-Sep-26
+PK264-5-Drupadi;I Nyoman A Astina Putra;Centrale Lyon;International Master in Atmosphere, Ocean and Climate Science;I;Nyoman A Astina;Putra ;Nyoman;hastinapoetra@ymail.com;6285171091403;instagram.com/hastinapoetra;linkedin.com/in/astina-putra;Magister Luar Negeri;Prancis;09-Jan-25;30-Sep-27
+PK264-5-Drupadi;Muhammad Arlis;Yale University;Master of Business Administration;Muhammad;;Arlis ;Arlis;arlismuhammad@gmail.com;6282112972801;instagram.com/arlis.arm;linkedin.com/in/arlisarmansyah;Magister Luar Negeri;Amerika Serikat;08-Nov-25;18-Mei-2027
+PK264-5-Drupadi;Mohd Ganiswara Afif Kharisma;Lancaster University;MSc in Innovation and Entrepreneurship;Mohd;Ganiswara Afif;Kharisma ;Afif / Ganis;Mohd.Ganiswara.a@mail.ugm.ac.id;6281339845228;instagram.com/Afif_kharisma;linkedin.com/in/afifkharisma21;Magister Luar Negeri;Inggris;10-Jan-25;30-Sep-26
+PK264-5-Drupadi;Alizza Laily Yuhana;University Of New South Wales;Master of Laws;Alizza;Laily;Yuhana ;Alizza;alizzalaily@gmail.com;6282140085040;instagram.com/pk264.lpdp/;linkedin.com/in/alizzayuhana;Magister Luar Negeri;Australia;15-Sep-25;25-Sep-26
+PK264-5-Drupadi;Agung Firmana;University of Dundee;MSc in International Energy Studies and Energy Economics;Agung;;Firmana ;Agung;agungfirmana99@gmail.com;6281230264868;instagram.com/firmanaagung;linkedin.com/in/agung-firmana;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-5-Drupadi;Aliva Erhan Sefira Asrikamongga;SOAS University of London & UIII;MA in Islamic Studies & Master of Education;Aliva;Erhan Sefira;Asrikamongga ;Aliva;alivaerhan98@gmail.com;6282132361750;instagram.com/alivaerhan;linkedin.com/in/alivaerhan;Magister Luar Negeri;Inggris dan Indonesia;15-Sep-25;9-Okt-2027
+PK264-5-Drupadi;Indah Mustika Dewi;Imperial College London;MSc in Geo-Energy with Machine Learning and Data Science;Indah;Mustika;Dewi ;Indah;indahmustikadewi16@gmail.com;6282136992001;instagram.com/mustikadewiya;linkedin.com/in/indah-mustika-dewi-a68420185;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-5-Drupadi;Gracia Grand Dinarta Veronica La Maureen Pelawi;University of Dundee;LLM in International Minerals & Energy Law and Policy;Gracia;Grand Dinarta Veronica La Maureen;Pelawi ;Gracia;veronicapelawii@gmail.com;6281288113090;instagram.com/pk264.lpdp/;linkedin.com/in/gpelawi;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-5-Drupadi;Muhammad Arief Ramadhan;University of Oxford;Master of Business Administration;Muhammad;Arief;Ramadhan ;Arief;arieframadhanm@gmail.com;6281362307390;instagram.com/arieframadhanm;linkedin.com/in/muhammad-arief-ramadhan-0b62a3aa;Magister Luar Negeri;Inggris;22-Sep-25;9-Des-2026
+PK264-5-Drupadi;Dya Savica;University of Leeds;MA in International Marketing Management;Dya;;Savica ;Avi;dyasavica16@gmail.com;6287881628480;instagram.com/dyasavica;linkedin.com/in/dya-savica;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-5-Drupadi;Rebeca Yapeno;University of Cambridge;Master of Business Administration;Rebeca;;Yapeno ;Rebeca / Beca;ryapeno@gmail.com;6287784094025;instagram.com/rebecayapeno;linkedin.com/in/rebeca-yapeno;Magister Luar Negeri;Inggris;09-Nov-25;15-Sep-25
+PK264-5-Drupadi;Anastania Melinda;Aix-Marseille University;MSc in Management, Entrepreneurship, and Innovation;Anastania;;Melinda ;Tania;anastania.melinda@gmail.com;6285880956670;instagram.com/aanas.tania_;linkedin.com/in/anastaniamelinda;Magister Luar Negeri;Prancis;09-Jan-25;31-Des-2026
+PK264-5-Drupadi;Khoirul Umam;Brawijaya University;Doctor of Management Science;Khoirul;;Umam ;Irul;irul.rsot@gmail.com;6281330000320;instagram.com/khoirul.elumam;linkedin.com/in/khoirul-umam-md;Doktor Dalam Negeri;Indonesia;18-Agu-2025;18-Agu-2029
+PK264-5-Drupadi;Balqis Inas;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Balqis;;Inas ;Balqis;inasbalqis69@gmail.com;6281319645690;instagram.com/balqis.inas;linkedin.com/in/balqis-inas-2ba53a121;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-29
+PK264-5-Drupadi;Muhammad Imaduddin Hidayat;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Muhammad;Imaduddin;Hidayat ;Imad;muhammadimad.1705@gmail.com;6288221799452;instagram.com/Muhammad.1705;linkedin.com/in/muhammad-imaduddin-hidayat-870363347;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-29
+PK264-5-Drupadi;Huriyatul Fitriyah Noor;Diponegoro University;Doctor of Aquatic Resources Management;Huriyatul;Fitriyah;Noor ;Huri;ria.noor12@gmail.com;6285746981112;instagram.com/pk264.lpdp/;linkedin.com/in/huriyatul-f-noor-50451a374;Doktor Dalam Negeri;Indonesia;25-Agu-2025;25-Agu-2028
+PK264-5-Drupadi;Ismail;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Ismail;;;Mail;ismail.wela1987@gmail.com;6281341645080;instagram.com/iweee87;linkedin.com/in/ismail-wela-bb9a2a374;Doktor Dalam Negeri;INDONESIA;09-Jun-25;31-Agu-2028
+PK264-5-Drupadi;Alvin Wiharja;Indonesia University of Education;Doctor of Sports Education;Alvin;;Wiharja ;Alvin;dralvinspko@gmail.com;6281320333770;instagram.com/dokter.olahraga;linkedin.com/in/alvinwiharja;Doktor Dalam Negeri;Indonesia;09-Jan-25;31-Agu-2028
+PK264-5-Drupadi;Ni Wayan Dewinta Ayuni;Sepuluh Nopember Institute of Technology;Doctor of Statistics;Ni;Wayan Dewinta;Ayuni ;Dewinta;dewintaayuni@pnb.ac.id;6281916578943;instagram.com/dewinta_ayuni;linkedin.com/in/dewinta-ayuni-97b05835b;Doktor Dalam Negeri;Indonesia;25-Agu-2025;24-Agu-2029
+PK264-5-Drupadi;M. Ridwan Sutisna, M.Pd.;Indonesian International Islamic University;Doctor of Education;Muhammad;Ridwan;Sutisna ;Ridwan;m.ridwan.sutisna@upi.edu;6285624332860;instagram.com/patilson.jr;linkedin.com/in/muhamad-ridwan-sutisna-bb9235120;Doktor Dalam Negeri;INDONESIA;22-Sep-25;28-Agu-2029
+PK264-5-Drupadi;Fajar Eka Samudra;University of Malaya;PhD in Sport and Exercise Science;Fajar;Eka;Samudra ;Fajar;fajar73samudra@gmail.com;6282139442793;instagram.com/fajar73samudra;linkedin.com/in/fajar-eka-samudra-80601a252;Doktor Luar Negeri;Malaysia;10-Jan-25;30-Sep-29
+PK264-5-Drupadi;Aninda Tifani Puari;University of Groningen;PhD in Science and Engineering;Aninda;Tifani;Puari ;Ninda;anindatifani@yahoo.com;628995693889;instagram.com/pk264.lpdp/;linkedin.com/in/aninda-tifani-puari-66267b41;Doktor Luar Negeri;Belanda;11-Jan-25;31-Okt-2029
+PK264-5-Drupadi;Nurul Azizah;University of Queensland;Doctor of Philosophy;Nurul;;Azizah ;Zizah;nurulazizahvet@gmail.com;6282245322146;instagram.com/azizanurul58;linkedin.com/in/nurul-azizah-770989165;Doktor Luar Negeri;Australia;10-Jan-25;30-Sep-29
+PK264-5-Drupadi;Riangga Novrianto;University Medical Center Hamburg-Eppendorf;PhD from Department of Psychiatry and Psychotherapy;Riangga;;Novrianto ;Angga;riangganovrianto@gmail.com;6281363732589;instagram.com/rianggariangga;linkedin.com/in/riangga-novrianto;Doktor Luar Negeri;Jerman;10-Jan-25;30-Sep-29
+PK264-5-Drupadi;Dyah Nurasri Darmastuti Purboyo;University Of New South Wales;PhD in Petroleum Engineering;Dyah;Nurasri Darmastuti;Purboyo ;Dyah;dyah.nurasri@gmail.com;6285320032758;instagram.com/dnadyah;linkedin.com/in/dyah-nurasri-darmastuti-purboyo;Doktor Luar Negeri;Australia;15-Sep-25;09-Sep-29
+PK264-5-Drupadi;Andhita Mustikaningtyas;Tohoku University;PhD from Graduate School of Environmental Science;Andhita;;Mustikaningtyas ;Tyas;tyasandhita@gmail.com;6285726585006;instagram.com/tyasandhita;linkedin.com/in/andhita-mustikaningtyas;Doktor Luar Negeri;Jepang;10-Jan-25;30-Sep-28
+PK264-5-Drupadi;Muhamad Firdaus Al Hakim;Kyoto University;PhD in Human Security Engineering;Muhamad;Firdaus Al;Hakim ;Firdaus;firdausalhakim@gmail.com;6285721550430;instagram.com/pk264.lpdp/;linkedin.com/in/firdausalhakim22616015;Doktor Luar Negeri;Jepang;10-Jan-25;30-Sep-28
+PK264-5-Drupadi;Firdhan Aria Wijaya;University of Waikato;PhD in Geography;Firdhan;Aria;Wijaya ;Firdhan;;;instagram.com/pk264.lpdp/;linkedin.com/;Doktor Dalam Negeri;;;
+PK264-6-Larasati;Puji Astuti;Tanjungpura University;Master of Chemistry;Puji;;Astuti ;Puji;pujiast43@gmail.com;6285349389832;instagram.com/pu_jia19;linkedin.com/in/puji-astuti-20362a289;Magister Dalam Negeri;Indonesia;08-Jan-25;31-Jul-27
+PK264-6-Larasati;Yudith Natalia Vebryanska Gultom;Gadjah Mada University;Master of Development Economics;Yudith;Natalia Vebryanska;Gultom ;Yudith;yudithgultom@gmail.com;6285337376947;instagram.com/yudithgultom;linkedin.com/in/yudith-natalia-vebryanska-gultom-263850177;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-6-Larasati;Dhanista Hastinata Sukarna Putra;Diponegoro University;Specialist in Pediatrics;Dhanista;Hastinata Sukarna;Putra ;Dhanis;dr.siputra@gmail.com;6282111458800;instagram.com/drsiputraa99;linkedin.com/;Spesialis Dalam Negeri;Indonesia;07-Jul-25;31-Des-2028
+PK264-6-Larasati;Fransiskus Pati Soge;Diponegoro University;Master of Information Systems;Fransiskus;Pati;Soge ;Pati Soge;patisoge0207@gmail.com;6282247383964;instagram.com/karibosoge;linkedin.com/in/pati-soge-aab23a307;Magister Dalam Negeri;Indonesia;13-Agu-2025;13-Agu-2027
+PK264-6-Larasati;Arvia Dwi Royani;Gadjah Mada University;Master of Management;Arvia;Dwi;Royani ;Arvia;adroyani@gmail.com;6281370532624;instagram.com/arviaroyani;linkedin.com/in/arvia-dwi-royani;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-6-Larasati;Muhammad Azzamuddin;Gadjah Mada University;Master of Agricultural Industrial Technology;Muhammad;;Azzamuddin ;Azzam;azzamjob2@gmail.com;6281327000743;instagram.com/azm.yk;linkedin.com/in/muhammad-azzamuddin-48746925b;Magister Dalam Negeri;Indonesia;18-Agu-2025;31-Jul-27
+PK264-6-Larasati;Mohamad Irfan;University of Manchester;MSc in Renewable Energy and Clean Technology;Mohamad;;Irfan ;Irfan;mohamad.irfan.01@gmail.com;6281315629415;instagram.com/mohamadirfannnn;linkedin.com/in/mohamadirfannnn;Magister Luar Negeri;Inggris;22-Sep-25;09-Apr-26
+PK264-6-Larasati;Jenica Alva;University of Dundee;LLM in International Energy Law and Policy;Jenica;;Alva ;Jenica;jenicalva@gmail.com;6287781940954;instagram.com/alvajenica;linkedin.com/in/jenica-alva;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-6-Larasati;Nadine Nidianti;KEDGE Business School;MSc in International Trade & Logistics;Nadine;;Nidianti ;Nadine;nadinenidianti@gmail.com;6282299801849;instagram.com/nadzine;linkedin.com/in/nadine-nidianti-225413175;Magister Luar Negeri;Prancis;16-Sep-25;31-Des-2025
+PK264-6-Larasati;Mawira Aruna Sudarmadi;London School of Economics;Master of Laws (LLM);Mawira;Aruna;Sudarmadi ;Mawira;mawira98@gmail.com;6281318679321;instagram.com/mawira_s;linkedin.com/in/mawira-sudarmadi-67b489193;Magister Luar Negeri;Inggris;29-Sep-25;27-Sep-26
+PK264-6-Larasati;Muhammad Stally Argha Pradipta;Imperial College London;MSc in Machine Learning and Process Systems Engineering;Muhammad;Stally Argha;Pradipta ;Argha;stallyargha97@gmail.com;6281326789593;instagram.com/pk264.lpdp/;linkedin.com/in/mstallyarghap;Magister Luar Negeri;Inggris;27-Sep-25;30-Sep-26
+PK264-6-Larasati;Jennifer Natalie;University of Dundee;MSc in Sustainability: Climate Change and Transitions;Jennifer;;Natalie ;Jennifer;jenni.natalie99@gmail.com;6282113858321;instagram.com/pk264.lpdp/;linkedin.com/in/jennifer-natalie-d99;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-6-Larasati;Mohammad Rifky Wahyudi;University of Dundee;MSc in Sustainability and Renewables;Mohammad;Rifky;Wahyudi ;Rifky;20rifky@gmail.com;6281332671354;instagram.com/mo.rifky;linkedin.com/in/mo-rifky;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-25
+PK264-6-Larasati;Yovita Melati Putri;University College London;MPA in Development, Technology, and Innovation Policy;Yovita;Melati;Putri ;Putri;yovitamelatiputri@gmail.com;6282246713298;instagram.com/putriyovita;linkedin.com/in/putriyovita;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-6-Larasati;Asman Hafiz;University of Sussex;MA in Cultural and Creative Industries;Asman;;Hafiz ;Hafiz;asmanhafiz98@gmail.com;6281938779467;instagram.com/pk264.lpdp/;linkedin.com/;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-6-Larasati;Hasta Agsoinna Alhaqqi;University College London;MSc in Infrastructure Investment and Finance;Hasta;Agsoinna;Alhaqqi ;Hasta;hasoinna@gmail.com;6285336405275;instagram.com/hasoinna;linkedin.com/in/hasta-a-a-1o1;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-6-Larasati;Elia Andwijuva Imanuel;Politecnico di Milano;Master of Science in Civil Engineering;Elia;Andwijuva;Imanuel ;Elia;eliaandwijuva@gmail.com;6285691843795;instagram.com/eliaandwijuva;linkedin.com/in/eliaandwijuva;Magister Luar Negeri;Italia;15-Sep-25;22-Jul-27
+PK264-6-Larasati;Ika Marta Nia;University of New South Wales;Master of Health Leadership and Management (Extension);Ika;Marta;Nia ;Ika;ikamartania@gmail.com;6282331732712;instagram.com/martaniai;linkedin.com/in/ikamartania;Magister Luar Negeri;Australia;15-Sep-25;31-Mei-2027
+PK264-6-Larasati;Wintari Ayu Alifiah;University of Leeds;MA in International Business;Wintari;Ayu;Alifiah ;Tari;wintarialifiah@gmail.com;6281397024555;instagram.com/wintariayu;linkedin.com/in/wintari-ayu-alifiah;Magister Luar Negeri;Inggris;15-Sep-25;14-Sep-26
+PK264-6-Larasati;Julian Irham Siahaan;University of Manchester;MSc in Business Analytics: Operational Research & Risk Analysis;Julian;Irham;Siahaan ;Julian;julian.siahaan@gmail.com;6281317731518;instagram.com/juliansiahaan;linkedin.com/in/julian-siahaan-6521223a;Magister Luar Negeri;Inggris;29-Sep-25;29-Sep-26
+PK264-6-Larasati;Rizky Duanita Hermilia;University of Dundee;MSc in Oil and Gas Management;Rizky;Duanita;Hermilia ;Rizky;rizkyduanita@gmail.com;6285780471761;instagram.com/upyduanita;linkedin.com/in/rizky-duanita-hermilia-70912211b;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-6-Larasati;Ayu Permata Dita;University of Dundee;MSc in International Energy Studies and Energy Economics;Ayu;Permata;Dita ;Dita;ap.dita@gmail.com;6285162911014;instagram.com/ayudita95;linkedin.com/in/apdita;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-6-Larasati;Novan Bagaskara;University of Dundee;MSc in Sustainability and Renewables;Novan;;Bagaskara ;Novan;novanbagaskara96@gmail.com;6282178915201;instagram.com/pk264.lpdp/;linkedin.com/in/novan-bagaskara-b58686a5;Magister Luar Negeri;Inggris;15-Sep-25;18-Sep-26
+PK264-6-Larasati;Ventin Ariandy;King's College London;MSc in Climate Change: Environment, Science and Policy;Ventin;;Ariandy ;Ventin;ventinariandy@gmail.com;6281318468587;instagram.com/ventinariandy;linkedin.com/in/ventin-ariandy-765180a3;Magister Luar Negeri;Inggris;29-Sep-25;30-Sep-26
+PK264-6-Larasati;Jessica Syafaq Muthmaina;University of Padova;Master of Science in Astrophysics and Cosmology;Jessica;Syafaq;Muthmaina ;Jessica/Jes;jessica.s.muthmaina@gmail.com;6281220206024;instagram.com/your.astrophysicist;linkedin.com/in/syafaqmuth;Magister Luar Negeri;Italia;29-Sep-25;28-Sep-27
+PK264-6-Larasati;Anggi Ariskhan;London School of Economics;MSc in Social Innovation and Entrepreneurship;Anggi;;Ariskhan ;Anggi;aanggi09@gmail.com;6281219497899;instagram.com/a_anggi;linkedin.com/in/anggiariskhan;Magister Luar Negeri;Inggris;22-Sep-25;27-Sep-26
+PK264-6-Larasati;Delabriliano Ismail;KEDGE Business School;MSc in Data Analytics for Business;Delabriliano;;Ismail ;Ano;delabrilliano@gmail.com;6285156072983;instagram.com/pk264.lpdp/;linkedin.com/in/delabrilliano-ismail-05758715a;Magister Luar Negeri;Prancis;16-Sep-25;30-Apr-27
+PK264-6-Larasati;Nadira Annisa;Keio University;Master of Media Design;Nadira;;Annisa ;Nadira;dirannisa@gmail.com;6282157177276;instagram.com/dirannisa;linkedin.com/in/nadira-annisa;Magister Luar Negeri;Jepang;22-Sep-25;21-Sep-27
+PK264-6-Larasati;Hilma Awalia Rahmah;University College London;MSc in Clinical Pharmacy, International Practice and Policy;Hilma;Awalia;Rahmah ;Hilma;hilma.awalia@gmail.com;6282217563354;instagram.com/hilmaawalia;linkedin.com/in/hilma-awalia-rahmah;Magister Luar Negeri;Inggris;22-Sep-25;22-Sep-26
+PK264-6-Larasati;Gerry Rido Anggriano Simbolon;University College London;MSc in Telecommunications with Business;Gerry;Rido Anggriano;Simbolon ;Gerry;simbolongerry@gmail.com;628111990833;instagram.com/gerrysimbolon;linkedin.com/in/gerrysimbolon;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-6-Larasati;Jovan Christopher;University of Manchester;MSc in Marketing;Jovan;;Christopher ;Jovan;jovanchr98@gmail.com;6281285530050;instagram.com/pk264.lpdp/;linkedin.com/in/jovan-christopher;Magister Luar Negeri;Inggris;29-Sep-25;6-Des-2026
+PK264-6-Larasati;Agnes Galuh Sekarlangit Boru Simamora;University of Chicago;Master of Laws (LLM);Agnes;Galuh Sekarlangit Boru;Simamora ;Agnes;agnesgaluh@ymail.com;628994150078;instagram.com/pk264.lpdp/;linkedin.com/in/agnes-galuh-simamora;Magister Luar Negeri;Amerika Serikat;18-Sep-25;06-Jun-25
+PK264-6-Larasati;Aqila Shabrina;University of Leeds;Master of Architecture;Aqila;;Shabrina ;Aqila;qila.shabrina@gmail.com;6281584219360;instagram.com/aqilashabrina;linkedin.com/in/aqila-shabrina-559845374;Magister Luar Negeri;Inggris;22-Sep-25;21-Sep-26
+PK264-6-Larasati;Lia Fadhilla Thamrin;University of Oxford;Master of Business Administration;Lia;Fadhilla;Thamrin ;Lia;lia_thamrin@yahoo.com;6282111056610;instagram.com/liafthamrin;linkedin.com/in/liafthamrin;Magister Luar Negeri;Inggris;22-Sep-25;30-Sep-26
+PK264-6-Larasati;Herlina Ika Ratnawati;Bogor Agricultural University (IPB);Doctor of Applied Climatology;Herlina;Ika;Ratnawati ;Herlina;herlina.ir@gmail.com;628562217833;instagram.com/herlina.i.r;linkedin.com/in/herlina-ir-0661ba375;Doktor Dalam Negeri;Indonesia;18-Agu-2025;17-Agu-2029
+PK264-6-Larasati;Lukman Hakim;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Lukman;;Hakim ;Lukman;lukmanponti07@gmail.com;6282332439275;instagram.com/lukman_ponti;linkedin.com/;Doktor Dalam Negeri;Indonesia;09-Jun-25;31-Jul-28
+PK264-6-Larasati;Rosa Delima Pangaribuan;Diponegoro University;Doctor of Aquatic Resources Management;Rosa;Delima;Pangaribuan ;Rosa;rosadelimapangaribuan69@gmail.com;6281240105633;instagram.com/rosa_delima87;linkedin.com/in/rosa-pangaribuan-79b762248;Doktor Dalam Negeri;INDONESIA;25-Agu-2025;25-Agu-2028
+PK264-6-Larasati;Miftahul Mahrus;Indonesian International Islamic University;Doctor of Education;Miftahul;;Mahrus ;Mahrus;mahrusmiftahul@gmail.com;6281351907173;instagram.com/pk264.lpdp/;linkedin.com/in/m-mahrus;Doktor Dalam Negeri;Indonesia;22-Sep-25;22-Agu-2029
+PK264-6-Larasati;Dr. Waluyo Sugito;University of Indonesia;Doctor of Medical Science;Dr.;Waluyo;Sugito ;Waluyo;waluyosugito99@yahoo.com;628129028978;instagram.com/oyulaw_otigus;linkedin.com/in/w-sugito-165865167;Doktor Dalam Negeri;Indonesia;8-Mei-2025;31-Jul-29
+PK264-6-Larasati;Jap Mai Cing;University of Indonesia;Doctor of Biomedical Science;Jap;Mai;Cing ;Mai Cing;japmaicing@uki.ac.id;6287878443358;instagram.com/mei.cink;linkedin.com/in/jap-mai-cing-6b7b96202;Doktor Dalam Negeri;Indonesia;23-Agu-2025;23-Agu-2028
+PK264-6-Larasati;Syahrul Rahman;PTIQ University Jakarta;Doctor of Al-Qur'an and Tafsir Sciences;Syahrul;;Rahman ;Syahrul;syahrul.rahman@uin-suska.ac.id;6285263195638;instagram.com/pk264.lpdp/;linkedin.com/in/syahrul-rahman;Doktor Dalam Negeri;Indonesia;09-Jun-25;09-Jun-28
+PK264-6-Larasati;Ramli;Indonesian International Islamic University;Doctor of Education;Ramli;;;Ramli;ramlialfatih88@gmail.com;6285641962679;instagram.com/ramlialfatih88;linkedin.com/;Doktor Dalam Negeri;Indonesia;22-Sep-25;22-Agu-2029
+PK264-6-Larasati;Daniel Wojtyla;University of Nottingham;PhD in Finance and Risk;Daniel;;Wojtyla ;Daniel;daniel.wojtyla@yahoo.com;6281932771098;instagram.com/pk264.lpdp/;linkedin.com/in/daniel-w-aa2b5aaa;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-29
+PK264-6-Larasati;Hanifatur Rosyidah;University of Western Australia;PhD in Health (Medicine);Hanifatur;;Rosyidah ;Hani;hanifa.r@unissula.ac.id;628995811862;instagram.com/hanifaturrosyidah;linkedin.com/in/hanifatur-rosyidah-11313b52;Doktor Luar Negeri;Australia;15-Sep-25;14-Sep-29
+PK264-6-Larasati;Rinaldi;University of Dundee;PhD in Economics of Energy;Rinaldi;;;Aldi;rinaldilaguesta@gmail.com;628126958633;instagram.com/rinaldi_nonoi;linkedin.com/in/rinaldi-a77905102;Doktor Luar Negeri;Inggris;15-Sep-25;15-Sep-29
+PK264-6-Larasati;Azizah Syafira;Vrije Universiteit Amsterdam;PhD from Graduate School of Humanities;Azizah;;Syafira ;Zi;azizahsyafira27@gmail.com;6281318168845;instagram.com/ziccup;linkedin.com/in/azizahsyafira27;Doktor Luar Negeri;Belanda;09-Jan-25;31-Agu-2029
+PK264-6-Larasati;Baiq Nila Sari Ningsih;University of Warwick;PhD in Chemistry;Baiq;Nila Sari;Ningsih ;Sari;baiqnila@unram.ac.id;6288299369438;instagram.com/baiq_nilasari;linkedin.com/in/baiq-nila-sari-ningsih-45b9952b6;Doktor Luar Negeri;Inggris;10-Jun-25;10-Jun-29
+PK264-6-Larasati;Eka Puspita Sari;Victoria University of Wellington;PhD in Education;Eka;Puspita;Sari ;Eka;aldryneka206@gmail.com;6289620574560;instagram.com/pk264.lpdp/;linkedin.com/in/eka-puspita-sari-a8a282117;Doktor Luar Negeri;Selandia Baru;11-Jan-25;11-Jan-29
+PK264-6-Larasati;Rifqi Irvansyah;University College London;MPhil/PhD in Civil, Environmental and Geomatic Engineering;Rifqi;;Irvansyah ;Rifqi;rifqirvansyah@gmail.com;6282363676657;instagram.com/rifqirvansyah;linkedin.com/in/rifqi-irvansyah-86824413b;Doktor Luar Negeri;Inggris;10-Jan-25;30-Sep-29
+PK264-6-Larasati;Muhammad Yusril Sulaiman;Imperial College London;PhD in Civil and Environmental Engineering (Structural Biomechanics);Muhammad;Yusril;Sulaiman ;Yusril;myusrils2006@gmail.com;628112034520;instagram.com/myusrils;linkedin.com/in/myusrilsss;Doktor Luar Negeri;Inggris;27-Sep-25;27-Sep-29
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
