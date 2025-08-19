@@ -944,3 +944,4 @@ nameSelect && nameSelect.addEventListener("change", ()=>{
   const rec = DATA.find(r=> String(r["Full Name"]).trim() === String(nameSelect.value).trim());
   if (rec) chooseRecord(rec);
 });
+
