@@ -13,9 +13,6 @@
 /* ================= DOM HELPERS ================= */
 const $  = (s)=>document.querySelector(s);
 
-/* Header info */
-const dataStatus = $("#dataStatus");
-
 /* Toolbar search + datalist + pilihan nama */
 const searchInput = $("#searchInput");
 const nameList    = $("#nameList");
@@ -945,4 +942,5 @@ nameSelect && nameSelect.addEventListener("change", ()=>{
   const rec = DATA.find(r=> String(r["Full Name"]).trim() === String(nameSelect.value).trim());
   if (rec) chooseRecord(rec);
 });
+
 
