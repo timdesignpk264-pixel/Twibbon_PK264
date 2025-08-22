@@ -295,7 +295,7 @@ function rowsToObjects(rows){
 function formatName(raw){
   if (!raw) return "";
   const lower=String(raw).trim().toLowerCase();
-  const smallWords=new Set(["bin","binti","ibn","al","as","ash","af","el","de","del","della","da","di","la","le","van","von","der","den","of","and","&"]);
+  const smallWords=new Set(["bin","binti","ibn","al","as","ash","af","de","del","della","da","di","la","le","van","von","der","den","of","and","&"]);
   return lower.split(/\s+/).map((w,i)=> smallWords.has(w)&&i!==0 ? w : w.replace(/(^|[-'’`])\p{L}/gu, m=>m.toUpperCase())).join(" ");
 }
 function createNameSuggestions(fullName, maxLength){
@@ -944,4 +944,5 @@ nameSelect && nameSelect.addEventListener("change", ()=>{
   const rec = DATA.find(r=> String(r["Full Name"]).trim() === String(nameSelect.value).trim());
   if (rec) chooseRecord(rec);
 });
+
 
